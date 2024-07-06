@@ -10,7 +10,7 @@ print("=== Proteomic Analisys - Find Peptides from Keywords ===")
 # html_file = input("Enter the name of the HTML file: ")
 # Setup 
 print("Reading HTML file...")
-html_file = "vPb18_protein.html"
+html_file = "vEV_protein.html"
 
 #origin folder  
 origin_folder = "./data/"
@@ -18,14 +18,14 @@ origin_folder = "./data/"
 #destiny folder
 destiny_folder = "./results/"
 
-keywordsToFind = ["Phosphorylation", "Acetylation"]
+keywordsToFind = ["Phosphorylation"]
 print("Keywords to find: ", keywordsToFind)
 
 ##################################
 
-# Read the HTML file
+# Read the HTML file inside the data folder
 print("Reading HTML file...")
-with open(html_file, 'r') as file:
+with open(origin_folder + html_file, 'r') as file:
     html_content = file.read()
 
 # Create a BeautifulSoup object
@@ -97,4 +97,5 @@ for bar_div in bar_divs:
 
             else:
                 print("No table with class 'mytable' found")
+                
 print("\nProgram finished successfully.")
