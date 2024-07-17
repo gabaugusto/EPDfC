@@ -10,7 +10,7 @@ print("=== Proteomic Analisys - Find Peptides from Keywords ===")
 # html_file = input("Enter the name of the HTML file: ")
 # Setup 
 print("Reading HTML file...")
-html_file = "vEV_protein.html"
+html_file = "aEV_protein.html"
 
 #origin folder  
 origin_folder = "./data/"
