@@ -1,0 +1,3631 @@
+WORD,LastCell
+C1GLI2,Sodium adduct;Methylation(KR)
+C1G9C0,Methylation(KR)
+C1G0D4,Methylation(KR);Carboxylation (E);Carbamidomethylation;Oxidation (M);Dehydration
+A0A0A0HWS3,Deamidation (NQ)
+C1GCX5,Oxidation (M)
+C1GB65,Dehydration;Methylation(KR)
+C1FZL1,Oxidation (M)
+C1GA20,Deamidation (NQ);Methylation(KR)
+C1G1C8,Acetylation (Protein N-term);Carboxylation (DKW)
+C1G065,Deamidation (NQ);Acetylation (K);Methylation(KR);Carbamylation;Carboxylation (DKW);Phosphorylation (STY);Oxidation (M);Carbamidomethylation
+C1GHF6,Oxidation (M)
+C1G3Y8,Carbamylation;Methylation(KR)
+C1FYW9,Ubiquitination
+C1G2V1,Propargylamine
+C1GE52,Oxidation (HW)
+C1G1F2,Chlorination of tyrosine residues
+C1G1T5,Formylation;Carbamidomethylation;Methylation(KR);Deamidation (NQ)
+C1G3L4,Acetylation (N-term);Phosphorylation (STY)
+C1G6U5,Methylation(KR);Deamidation (NQ)
+C1GMV8,Levuglandinyl-lysine pyrrole adduct
+C1GG28,Formylation
+C1FZL1,Methylation(KR)
+C1G064,Pyro-glu from Q;Deamidation (NQ);Carbamidomethylation;Methylation(KR);Oxidation (M)
+C1GLM2,Carbamylation;Methylation(KR)
+A0A0A0HS69,Pyridylacetyl
+C1GGG3,Carbamidomethylation
+A0A0A0HT80,Carbamidomethylation;Formylation;Dehydration
+C1GEG2,Carbamidomethylation;Oxidation (M)
+C1GAG4,Dihydroxy;Carbamidomethylation
+C1G1F2,Deamidation (R)
+C1G5J0,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1GCI0,Dihydroxy;Phosphorylation (STY)
+C1GEX7,Acetylation (K)
+C1G1T5,Deamidation (R);Carbamidomethylation
+C1G1F2,Pyro-glu from Q;Oxidation (M)
+C1G3T6,Ethanolation (KR)
+C1G712,Acetylation (N-term);Acetylation (K);Methylation(KR);Dimethylation(KR);Deamidation (NQ);Phosphorylation (STY);Sodium adduct;Myristoylation
+C1GBC4,Phosphorylation (STY);Acetylation (K)
+C1G1G2,Dihydroxy
+C1GDL1,Oxidation (M);Carbamidomethylation
+C1GHJ0,Carbamidomethylation;Deamidation (NQ);Methylation(others)
+C1G4M5,Sodium adduct
+C1GEX7,Deamidation (NQ);Methylation(KR);Dihydroxy;Phosphorylation (STY);Oxidation (M);Dehydration
+C1G5V6,Acetylation (Protein N-term);Carbamidomethylation
+C1GBS0,Oxidation (M)
+C1GGI0,Carbamidomethylation;Hexose (NSY);Methylation(KR);Amidation
+C1GEN5,Acetylation (Protein N-term);Amidation
+C1G002,Acetylation (N-term);Carbamidomethylation;Methylation(KR);Phosphorylation (STY);Biotinylation
+C1GKC9,Acetylation (N-term);Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GGT8,Ubiquitin
+C1GLI9,Carbamidomethylation;Methylation(KR);Acetylation (N-term);Dehydration
+C1G283,Dehydration;Methylation(KR)
+C1GAC4,Acetylation (Protein N-term);Methylation(KR)
+C1GFA3,Acetylation (N-term);Sulfation;Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1GA20,Acetylation (Protein N-term)
+C1GKQ6,Oxidation (M)
+C1GGQ3,Carbamidomethylation
+C1GHS5,Phosphorylation (STY);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Formylation;Sodium adduct;Dihydroxy
+C1G3Y8,Methylation(KR);Deamidation (NQ);Carbamylation
+C1G9P8,Phosphorylation (STY);Oxidation (HW);Biotinylation
+C1GAT8,Pyro-glu from Q
+C1GAM9,Pyro-glu from Q;Methylation(KR)
+C1G9P8,Carbamylation;Acetylation (K)
+C1GBZ4,Methylation(others)
+C1G1R3,Carbamidomethylation
+C1GKC9,Acetylation (K)
+C1GB65,Phosphorylation (HCDR)
+C1GLI2,Formylation;Methylation(KR)
+C1GKC9,Deamidation (NQ);Methylation(KR);Amidation;Dimethylation(KR)
+C1GBT4,Deamidation (NQ)
+A0A0A0HV62,Dihydroxy;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1G1F2,Lysine oxidation to aminoadipic semialdehyde
+C1FZF8,Pyro-glu from Q
+C1GA17,Carbamylation;Carbamidomethylation;Methylation(KR)
+C1G1C8,Dehydration;Acetylation (K)
+C1G2I2,Carbamidomethylation;Ammonia-loss (N)
+C1G3T6,Formylation;Acetylation (K);Phosphorylation (STY)
+C1GLI9,Oxidation (M)
+C1GGT8,Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY);Carbamidomethylation;Dehydration
+C1G9C0,Acetylation (N-term);Acetylation (K);Amidation;Oxidation (HW);Phosphorylation (STY);Sodium adduct
+C1GHS5,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Phosphorylation (STY);Oxidation (M);Carboxylation (E)
+C1G1F2,Carbamidomethylation;Methylation(KR);Replacement of proton by lithium;Ethylation;Replacement of proton with ammonium ion;Methylation(others)
+C1GHJ0,Sodium adduct;Methylation(KR)
+C1GCT8,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G064,Deamidation (NQ);Acetylation (K);Dimethylation(KR);Amidation;Methylation(KR);Phosphorylation (STY);Oxidation (M);Carboxylation (E);Sodium adduct;Dehydration
+C1GDJ1,Replacement of proton by lithium
+C1GHV2,Carbamidomethylation;Methylation(KR);Deamidation (NQ);Ethylation;Oxidation (M);Methylation(others)
+C1G8H6,Dimethylation(KR);Acetylation (K)
+C1GMV8,Menadione quinone derivative
+C1FZI7,Carboxylation (E)
+C1GLX8,Methylation(others)
+C1GLI9,Methylation(KR);Deamidation (NQ);Carbamidomethylation;Dehydration
+C1GJX3,Carbamidomethylation
+C1G2V1,Deamidation (NQ);Sulfation;Carbamidomethylation;Phosphorylation (STY)
+C1G3C4,Deamidation (NQ);Oxidation (M);Carbamidomethylation;Sodium adduct;Dehydration;Biotinylation
+C1GFA3,Carbamylation;Acetylation (K);Methylation(KR)
+C1GE03,Carbamylation;Methylation(KR)
+C1GAM9,Dihydroxy;Acetylation (K)
+C1G810,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Carboxylation (DKW);Sodium adduct
+C1FZ57,Phosphorylation (STY);Carboxylation (E);Acetylation (K)
+C1GA13,Aminoethylbenzenesulfonylation
+C1GGT8,Oxidation (M);Carbamylation
+C1GCK9,Formylation;Acetylation (K)
+C1G411,Sulphone;Phosphorylation (STY)
+C1G0D4,Propionaldehyde +40;Carbamidomethylation
+C1GFG5,Replacement of proton by copper
+C1G371,Carbamidomethylation;Oxidation (M);Methylation(others)
+C1GCK9,Pyro-glu from Q
+C1GN52,Methylation(others)
+C1G9P8,Oxidation (M);Carbamidomethylation;Dehydration;Biotinylation
+C1G631,Oxidation (M)
+C1G989,Hexose (NSY);Deamidation (NQ)
+C1GGT8,Methylation(KR);Acetylation (K);Dehydration
+C1G3Y8,Carboxylation (E);Methylation(KR)
+C1GAF5,Phosphorylation (STY);Deamidation (NQ);Sodium adduct;Methylation(KR);Dimethylation(KR)
+C1G942,Oxidation (M);Carbamidomethylation;Methylation(KR)
+C1GM00,Carbamidomethylation;EDT-maleimide-PEO-biotin;Methylation(KR);Carboxylation (DKW);Dehydration;Deamidation (R);Oxidation (M);Methylation(others)
+C1GA20,Replacement of proton by potassium
+C1G1F2,Beta-methylthiolation
+C1G5X0,Acetylation (N-term);Carbamidomethylation;Phosphorylation (STY)
+C1G4M5,Phosphorylation (STY);Acetylation (K);Methylation(KR);Carboxylation (DKW);Sodium adduct
+C1GEM8,Phosphorylation (STY);Deamidation (NQ);Oxidation (M)
+C1GM03,Carbamylation;Phosphorylation (STY)
+C1FYX6,Oxidation (M);Methylation(KR);Phosphorylation (STY)
+C1G1F2,Acetylation (K);Carbamidomethylation;Methylation(KR);Phosphorylation (STY);Oxidation (M)
+C1GDJ1,Sodium adduct;Carbamidomethylation;Methylation(KR)
+C1GDK2,Dehydration;Deamidation (NQ);Methylation(KR)
+C1G631,Methylation(KR)
+C1G9X3,Lysine oxidation to aminoadipic semialdehyde
+A0A0A0HUJ5,Phosphorylation to pyridyl thiol
+C1GLI9,Deamidation (NQ);Carbamidomethylation;Phosphorylation (STY);Dehydration
+C1G821,Beta-methylthiolation (ND)
+C1FYW9,Acetylation (Protein N-term);Dehydration
+C1GG76,Dimethylation(KR)
+C1G9I8,Dehydration;Methylation(KR)
+C1GAG4,Pyro-glu from Q;Carbamidomethylation
+C1GII4,Formylation;Deamidation (NQ)
+C1G942,Acetylation (N-term);Sulfation;Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Oxidation (M);Sodium adduct
+C1GBZ4,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Phosphorylation (STY);Sodium adduct;Dehydration
+C1G821,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1G606,Carbamidomethylation
+C1GK99,Carbamidomethylation;Methylation(KR)
+C1G065,Oxidation (HW)
+C1GGQ3,Deamidation (NQ)
+C1GHS5,Amidation
+A0A0A0HV62,Phosphorylation (STY);Acetylation (K);Methylation(KR);Dimethylation(KR);Deamidation (NQ);Carboxylation (DKW);Formylation;Dihydroxy;Biotinylation
+C1GCI0,Pyro-glu from Q;Methylation(KR)
+C1FZI7,Biotinylation;Deamidation (NQ);Acetylation (K)
+C1G3T6,Methylation(others)
+C1G3Y8,Pyro-glu from Q;Deamidation (NQ);Methylation(KR);Oxidation (M)
+C1G0E3,Acetylation (Protein N-term);Carbamidomethylation;Acetylation (K);Methylation(KR);Deamidation (NQ)
+C1GLV8,Michael addition with methylamine
+C1G002,Formylation;Carbamidomethylation;Acetylation (K)
+C1G989,Methylation(KR);Dihydroxy
+C1FYJ7,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G5F6,Carbamidomethylation;Methylation(KR);Deamidation (NQ);2-amino-3-oxo-butanoic_acid;Deamidation (R);Michael addition with methylamine
+C1GA13,Pyro-glu from Q
+C1GN52,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dimethylation(KR)
+C1FYE5,Methylation(others)
+C1G4I0,Sodium adduct
+C1GCK9,Propargylamine
+C1G0X4,Carbamylation
+C1G945,Oxidation (M)
+C1GLJ7,Carbamidomethylation;Methylation(KR)
+C1GHS5,Lysine oxidation to aminoadipic semialdehyde
+C1GKC9,Replacement of proton by potassium
+C1GLX8,Phosphorylation (STY);Acetylation (K);Methylation(KR);Deamidation (NQ);Oxidation (M);Sodium adduct;Dehydration;Biotinylation
+C1G411,Acetylation (N-term);Formylation;Acetylation (K);Dihydroxy
+C1GHS5,Dethiomethyl
+C1GEN5,Deamidation (NQ);Acetylation (K);Dimethylation(KR);Methylation(KR);Dehydration;Phosphorylation (STY);Carbamidomethylation;Sodium adduct;Dihydroxy
+C1G2J3,Amidation
+C1GM22,Carbamidomethylation;Oxidation (M)
+C1G9P8,Carbamidomethylation;Methylation(others)
+A0A0A0HV62,Acetylation (N-term);Formylation;Methylation(KR);Dihydroxy;Acetylation (K);Deamidation (NQ);Phosphorylation (STY);Carboxylation (E);Carbamidomethylation;Sodium adduct;Dehydration
+C1G0D4,O-Diisopropylphosphorylation
+C1GB47,Menadione quinone derivative
+C1G945,Methylation(KR)
+C1GI58,Carbamidomethylation
+C1GAW6,Carboxymethyl;Carbamidomethylation
+C1GEN5,Acetylation (N-term);Deamidation (NQ);Phosphorylation (STY);Carboxylation (E);Hexose (NSY);Carbamidomethylation;Dehydration
+C1GMU5,Oxidation (M);Deamidation (NQ)
+C1G3Y8,Dihydroxy;Deamidation (NQ);Acetylation (K);Phosphorylation (STY)
+C1G3T6,Biotinylation;Methylation(KR)
+A0A0A0HV62,Glyoxal-derived hydroimiadazolone
+C1GBJ2,Methylation(others)
+C1GE52,Formylation;Deamidation (NQ)
+C1GFA3,HexNAcylation (N)
+C1GMV8,Dihydroxy;Deamidation (NQ)
+C1GMZ1,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dimethylation(KR)
+C1GCF0,2-amino-3-oxo-butanoic_acid
+C1G9D7,Carbamidomethylation
+C1GMU5,Methylation(others)
+C1G0E3,Sodium adduct
+C1GE18,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1GAG3,Alpha-amino adipic acid
+C1G371,Acetylation (K)
+C1G821,Deamidation (NQ);Acetylation (K)
+C1G4M5,Carboxylation (DKW)
+C1GA17,Ethylation
+C1GLI2,Dihydroxy;Deamidation (NQ)
+C1GN52,Phosphorylation (STY);Methylation(KR)
+C1G942,Carbamidomethylation;Sulfation;Methylation(KR);Deamidation (NQ);2-amino-3-oxo-butanoic_acid;Deamidation followed by a methylation;Oxidation (M);Replacement of 2 protons by nickel;Deamidation (R);Methylation(others)
+C1GM00,Oxidation (M);Carbamidomethylation;Methylation(KR);Deamidation (NQ);Dehydration
+C1G371,Deamidation (NQ);Carbamidomethylation;Dihydroxy
+C1GAF5,Deamidation (R)
+C1G065,Carboxylation (E)
+C1G5V6,Methylation(others)
+C1G7C1,Acetylation (N-term);Formylation
+C1FYR6,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1GDK7,2-amino-3-oxo-butanoic_acid
+C1G989,3-(carbamidomethylthio)propanoyl
+C1GC65,Methylation(KR)
+C1GAF5,Amidation
+C1GGK4,Carbamidomethylation
+C1G712,Deamidation (NQ);Acetylation (K)
+C1G9C0,Phosphorylation (STY);Amidation;Dihydroxy
+C1G1C8,Formylation (Protein N-term)
+C1G9P8,Phosphorylation to amine thiol
+C1GAT8,Acetylation (Protein N-term)
+C1FYH3,Oxidation (M)
+C1G3T9,Acetylation (K)
+C1FZ06,Pyro-glu from Q
+C1GJS2,Carbamylation
+C1G3T9,Deamidation (NQ);Dehydration
+C1G371,Deamidation followed by a methylation
+C1GIX7,2-amino-3-oxo-butanoic_acid
+C1GMZ1,Oxidation (M);Dehydration
+C1G0X4,Myristoylation;Phosphorylation (STY)
+C1GMP8,Oxidation (M);Carbamidomethylation
+C1GLM2,Phosphorylation (STY);Acetylation (K);Methylation(KR);Biotinylation
+C1G0U1,Dehydration;Methylation(KR)
+C1GJT8,Carbamidomethylation
+C1GLI9,Phosphorylation (STY);Methylation(KR);Sodium adduct
+C1G1T5,Crotonaldehyde
+C1GJI0,Methylation(KR)
+C1GMZ1,Methylation(KR);Acetylation (K);Carbamylation;Dehydration
+C1GFG5,Ubiquitin
+C1GAW6,Methylation(others)
+C1G3T6,Phosphorylation (STY);Deamidation (NQ);Methylation(KR);Sodium adduct
+C1G9P8,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Phosphorylation (STY);Dehydration
+C1GK99,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Biotinylation
+C1GHN0,Pyro-glu from Q
+C1G0E5,Oxidation (M);Methylation(KR)
+C1G0D4,Carbamidomethylation;Fluorination;Oxidation (HW);Phosphorylation (STY);Proline oxidation to pyroglutamic acid;Methylation(KR);Dethiomethyl;Oxidation (M);2-OH-ethyl thio-Ser;Oxidation or Hydroxylation;Methylation(others);Biotinylation;Dimethylation(KR);Deamidation (NQ);Tryptophan oxidation to oxolactone;2-amino-3-oxo-butanoic_acid;Michael addition with methylamine;Dehydration;Tryptophan oxidation to kynurenin;Dihydroxy;Amidation;Deamidation followed by a methylation;Deamidation (R)
+C1G0D4,Phosphorylation (STY);Formylation;Carbamidomethylation;Acetylation (K);Dehydration
+C1GM00,Replacement of proton with ammonium ion
+C1G0D4,Deamidation (R)
+C1GG76,Levuglandinyl-lysine anhyropyrrole adduct
+C1G371,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1G942,Methylation(KR);Acetylation (K);Deamidation (NQ);Phosphorylation (STY);Carbamidomethylation;Dihydroxy
+C1FZ57,Carbamidomethylation
+A0A0A0HWK8,Carbamylation
+C1G2V1,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1G0D4,Amidation
+C1G9T0,Carbamylation
+C1G675,Oxidation (M)
+C1GAM9,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G9D7,Acetylation (N-term);Deamidation (NQ);Dehydration
+C1G391,3-(carbamidomethylthio)propanoyl
+C1GHF5,Carbamidomethylation;Oxidation (M)
+C1G1C8,Sulfation;Phosphorylation (STY)
+C1G989,Phosphorylation (STY);Methylation(KR)
+A0A0A0HUJ5,Carboxylation (E)
+C1GAT8,Carbamylation;Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1GLI9,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY);Sodium adduct
+C1GAA3,Carbamidomethylation
+"C1G9D7,""Propionamide (K, X@N-term)"""
+C1G1P4,Methylation(others);Carbamidomethylation
+C1G631,Pyro-glu from Q;Deamidation (NQ)
+C1GCI0,Acetylation (K)
+C1G5F6,Methionine replacement by azido homoalanine
+C1GIX7,Sodium adduct;Acetylation (K);Methylation(KR)
+C1GLJ7,Deamidation (NQ);Carbamidomethylation
+C1GHS5,Dihydroxy;Phosphorylation (STY)
+C1G9P8,Acetylation (K)
+C1G0D4,Lysine oxidation to aminoadipic semialdehyde
+C1FZ57,Phosphorylation to amine thiol
+C1G9P8,Deamidation (NQ);Acetylation (K);Amidation
+C1GBJ2,Acetylation (N-term);Acetylation (K);Methylation(KR);Dimethylation(KR);Sodium adduct;Biotinylation
+C1GF68,2-amino-3-oxo-butanoic_acid
+C1G5Y7,2-amino-3-oxo-butanoic_acid
+C1G0G4,Carbamidomethylation;Methylation(KR);Methylation(others)
+C1GA17,N-Homocysteine thiolactone
+C1G736,Methylation(KR)
+C1GEX7,Hexose (NSY);Phosphorylation (STY)
+A0A0A0HUJ5,Phosphorylation (STY);Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1GA14,2-amino-3-oxo-butanoic_acid
+C1G4N0,Oxidation (M)
+C1GAG4,Deamidation followed by a methylation
+C1G4M5,Acetylation (N-term);Deamidation (NQ);Methylation(KR);Dihydroxy;Dimethylation(KR)
+C1G3L4,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1GMV8,Methylation(others);Carbamidomethylation
+C1GDK2,Methylation(KR);Dehydration
+C1GMU5,Phosphorylation (STY);Deamidation (NQ);Methylation(KR);Sodium adduct
+C1GGT8,Acetylation (N-term);Deamidation (NQ);Acetylation (K);Biotinylation
+C1GCT8,Oxidation (M)
+C1GDJ1,Acetylation (N-term);Sulfation;Acetylation (K);Methylation(KR);Amidation;Carboxylation (DKW);Phosphorylation (STY);Dehydration
+C1GLM2,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Sulphone;Phosphorylation (STY);Formylation
+C1GLV8,Ubiquitin
+C1GCV9,Oxidation (M)
+C1GAM1,Methylation(others)
+C1G9D7,Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1GLI2,Methylation(others);Carbamidomethylation
+C1GBT0,Dehydration;Carbamidomethylation;Methylation(KR)
+C1GKC9,Dehydration;Acetylation (K);Methylation(KR)
+C1GKC9,Dihydroxy;Carbamidomethylation
+C1G712,Biotinylation;Phosphorylation (STY)
+C1G5V6,Phosphorylation (STY);Deamidation (NQ);Methylation(KR)
+C1GCT8,Methylation(KR);Deamidation (NQ);Carbamidomethylation;Phosphorylation (STY)
+C1G0X4,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+A0A0A0HWS3,Acetylation (N-term);Methylation(KR);Phosphorylation (STY);Dimethylation(KR)
+C1G0X9,Oxidation (M)
+C1GA20,Acetylation (N-term);Sulfation;Methylation(KR);Dimethylation(KR);Phosphorylation (STY);Dehydration
+A0A0A0HVP8,Phosphorylation (STY);Deamidation (NQ)
+C1GCI0,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1G810,Methylation(KR);Carbamidomethylation;Acetylation (K);Amidation;Dehydration
+C1GEM8,Pyro-glu from Q
+C1G3Y6,Oxidation (M);Carbamidomethylation
+C1G810,Acetylation (N-term);Methylation(KR)
+C1FYX6,Deamidation (NQ);Methylation(KR);Sodium adduct;Phosphorylation (STY)
+C1G1P4,Carbamidomethylation
+A0A0A0HS69,Ubiquitin
+C1GN84,Carbamidomethylation
+C1G0E5,Proline oxidation to pyroglutamic acid
+C1G065,Formylation;Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1FYR6,Oxidation (M);Sulfation
+C1GLM2,glycosylphosphatidylinositol
+C1GDJ1,Dihydroxy;Acetylation (K)
+C1GK99,Biotinylation
+C1FZI7,Deamidation (NQ);Methylation(KR);Carbamidomethylation;Sodium adduct;Dimethylation(KR)
+C1GCG8,Oxidation (M)
+C1GM97,Carbamidomethylation
+C1GLI9,Amidation
+C1GHJ0,Acetylation (N-term);Acetylation (K);Sodium adduct;Dihydroxy
+C1GM00,Replacement of proton by lithium
+C1GEN5,Formylation
+C1G065,Proline oxidation to pyroglutamic acid
+C1GKR7,Oxidation (M)
+C1GMV8,Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+A0A0A0HRM2,Dihydroxy
+C1GLA5,4-sulfophenyl isothiocyanate
+C1FZ57,Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY);Dihydroxy
+C1GLI2,Carbamidomethylation;Arginine oxidation to glutamic semialdehyde;Methylation(KR)
+C1G3C4,Acetylation (N-term);Methylation(KR);Dehydration
+C1G3Y8,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G064,Deoxy
+A0A0A0HS69,Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1GKR7,Methylation(KR)
+C1FYR6,Michael addition with methylamine
+C1GN52,Oxidation (M);Dehydration
+C1GLV8,Oxidation (M)
+C1GHD0,Oxidation (M)
+C1GMU5,Formation of five membered aromatic heterocycle
+C1GMI8,Carbamidomethylation
+A0A0A0HRG7,Oxidation (M);Carbamidomethylation
+C1G3Y8,LeudimethylArgGlyGly
+C1GGT8,Amidation
+C1GHE4,Dehydration
+C1GAG4,4-hydroxynonenal (HNE)
+A0A0A0HV62,O-Isopropylphosphorylation
+C1GA17,Carboxylation (DKW);Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1G002,Carbamylation;Carbamidomethylation;Phosphorylation (STY)
+C1FZG2,Carbamidomethylation
+C1G283,Carbamylation;Acetylation (K)
+C1G1F2,Oxidation (M);Deamidation (NQ);Carbamidomethylation;Methylation(KR);Amidation
+C1GLV8,Methylation(KR)
+C1GJT8,Acetylation (Protein N-term)
+C1G0E5,Carbamylation;Deamidation (NQ);Methylation(KR)
+C1G8H6,Oxidation (M)
+C1G1F2,Biotinylation;Deamidation (NQ)
+C1GM00,Sodium adduct;Deamidation (NQ);Methylation(KR)
+C1GM00,Dehydration;Deamidation (NQ);Methylation(KR)
+C1FYJ7,Methylation(KR)
+C1G9R9,Methylation(KR);Deamidation (NQ)
+C1GAG3,Carbamylation;Phosphorylation (STY)
+A0A0A0HT80,Formylation
+A0A0A0HWS3,Carboxylation (E);Oxidation (M)
+C1GM03,Phosphorylation (STY);Biotinylation;Dimethylation(KR);Sodium adduct
+C1G8H6,Methylation(KR)
+C1GGT8,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1FYW9,4-sulfophenyl isothiocyanate
+C1G391,Phosphorylation (STY);Formylation;Deamidation (NQ)
+C1GFA3,Dehydroalanine (Y)
+C1GGT8,Dethiomethyl
+C1G2B7,Carbamidomethylation
+C1FYX6,Pyrrolidone from Proline
+C1G0E3,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Amidation;Dihydroxy
+C1G792,Carbamidomethylation
+C1GM00,Carbamylation;Carbamidomethylation;Methylation(KR)
+A0A0A0HYV6,Dihydroxy
+C1G833,2-amino-3-oxo-butanoic_acid
+C1GEN5,Diethylation;Carbamidomethylation
+C1G064,Persulfide
+C1GGE1,Pyro-glu from Q
+C1G1P4,Deamidation (NQ)
+C1GMZ1,Acetylation (N-term);Acetylation (K);Dimethylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY);Carboxylation (E);Dehydration;Biotinylation
+C1GAM5,Carbamidomethylation;Ammonia-loss (N);Dimethylation(KR);Oxidation (M);Formation of five membered aromatic heterocycle
+C1G3T6,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Dehydration;Phosphorylation (STY);Dihydroxy
+C1FZI7,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY);Carbamidomethylation;Sodium adduct;Biotinylation
+A0A0A0HV89,Carbamidomethylation
+C1GAT8,Dehydration;Methylation(KR);Phosphorylation (STY)
+C1GLU6,Dehydration;Carbamidomethylation;Methylation(KR)
+C1GKG3,Methylation(others)
+"C1GHV2,""Propionamide (K, X@N-term)"""
+C1G6T3,2-amino-3-oxo-butanoic_acid
+C1FZ57,Biotinylation
+C1G4K1,Oxidation (M)
+C1GMC8,Pyro-glu from Q
+A0A0A0HV62,Oxidation (M);Acetylation (K);Methylation(KR);Dihydroxy
+C1G8E5,Methylation(others)
+C1GIX7,Carboxylation (DKW)
+C1GAM9,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dihydroxy
+C1GAT8,Propionaldehyde +40
+C1G4M5,Carbamidomethylation;Acetylation (K);Methylation(KR);Dihydroxy;Deamidation (NQ);Oxidation (M);Guanidination;Methylation(others)
+C1G8H6,Deamidation (NQ);Amidation;Methylation(KR);Phosphorylation (STY)
+A0A0A0HT80,Methylphosphonylation
+C1GLI2,Acetylation (K);Methylation(KR)
+C1GDJ1,Pyro-glu from Q
+C1FZT8,Deamidation (NQ);Methylation(KR)
+C1GHM0,Carbamidomethylation
+C1G4K1,Methylation(KR)
+A0A0A0HV62,Methylation(KR);Deamidation (NQ);Acetylation (K);Phosphorylation (STY)
+C1G5V6,Amidation;Acetylation (K)
+C1GLI2,Deamidation (NQ)
+C1G1F2,Proline oxidation to pyroglutamic acid
+C1GJT3,Carbamidomethylation
+C1G942,Deamidation (NQ);Phosphorylation (STY);Methylation(KR);Amidation;Dehydration
+C1GDK2,2-amino-3-oxo-butanoic_acid
+C1G002,Hexose (NSY)
+C1GBG1,Pyro-glu from Q;Carbamidomethylation
+C1GLX8,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Phosphorylation (STY);Biotinylation
+C1GM00,Methylation(KR);Amidation;Sulphone;Oxidation (M);Carbamidomethylation;Dehydration
+A0A0A0HT80,Methylation(others)
+C1G9C0,Oxidation (HW)
+C1G0D4,Oxidation (HW)
+C1G820,Ammonia-loss (N)
+C1G3T9,Dehydration;Deamidation (NQ);Methylation(KR)
+C1FZI7,Phosphorylation (STY);Acetylation (K);Methylation(KR);Oxidation (M);Dihydroxy
+C1GBZ4,Dehydration;Methylation(KR)
+C1G750,Oxidation (M)
+C1FZT8,Oxidation (M)
+C1GN52,Proline oxidation to pyroglutamic acid
+C1G820,Carboxylation (E)
+C1G810,2-amino-3-oxo-butanoic_acid
+C1G821,Deoxy
+C1GM03,Biotinylation;Acetylation (K)
+C1GLM2,Deamidation (NQ);Methylation(KR);Dihydroxy;Carboxylation (E);Carbamidomethylation;Dehydration
+C1GMV8,Acetylation (Protein N-term);Methylation(KR);Dimethylation(KR);Phosphorylation (STY);Dehydration
+C1G0N2,Methylation(KR)
+C1GMZ1,Phosphorylation (STY);Acetylation (K);Dimethylation(KR);Amidation;Formylation;Dihydroxy
+C1GAM9,Methylation(KR)
+C1GCV9,Acetylation (N-term);Acetylation (K)
+C1G9A3,Deamidation (NQ);Amidation
+C1G0P4,Pyro-glu from Q
+C1GA17,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Carbamylation;Carboxylation (DKW);Dehydration;Phosphorylation (STY);Dihydroxy
+C1FZT8,Methylation(KR)
+C1GMZ1,Amidation
+A0A0A0HRM2,Carbamidomethylation
+C1GGR5,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1G7A3,2-amino-3-oxo-butanoic_acid
+C1GE11,Oxidation (M)
+C1GFG5,Methylation(KR);Dihydroxy;Acetylation (K);Phosphorylation (STY);Dehydration
+C1GDJ1,HexNAcylation (N);Deamidation (NQ)
+C1G821,Pyridoxal phosphate
+C1GDK2,Sodium adduct
+A0A0A0HV62,Deamidation (NQ);Acetylation (K);Methylation(KR);Carboxylation (DKW);Phosphorylation (STY);Oxidation (M);Biotinylation
+C1FYR6,Ubiquitin
+C1G6I0,Carbamidomethylation
+C1GDJ1,Deamidation (NQ);Acetylation (K);Methylation(KR);HexNAcylation (N);Phosphorylation (STY);Carbamidomethylation;Dehydration
+C1GHV2,Methylation(others);Carbamidomethylation
+A0A0A0HV62,Carbamidomethylation;Acetylation (K);Methylation(KR);Amidation;Ammonia-loss (N);Deamidation (NQ);Sodium adduct;Dihydroxy;Biotinylation
+C1GLX8,Dehydration;Acetylation (K);Methylation(KR)
+C1G5F6,Formylation
+C1GM03,Acetylation (N-term);Methylation(KR);Amidation;Deamidation (NQ);Phosphorylation (STY);Hexose (NSY);Sodium adduct
+C1FYR6,Acetylation (Protein N-term);Carboxylation (E);Deamidation (NQ);Phosphorylation (STY)
+C1G9P8,Methylation(KR);Carboxylation (E);Carbamidomethylation
+C1GDJ1,HydroxymethylOP
+C1GEN5,Phosphorylation (STY);Methylation(KR);Sodium adduct
+C1G283,Pyro-glu from Q;Methylation(KR)
+C1GHV2,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+A0A0A0HWK8,Dimethylation(KR)
+C1GHJ0,Diethylation
+A0A0A0HWK8,Methylation(KR);Carbamidomethylation;Dehydration
+C1G821,Dehydration;Methylation(KR)
+C1GCI0,Dehydration;Deamidation (NQ);Methylation(KR)
+C1G810,Sodium adduct;Acetylation (K)
+C1GBM4,Deamidation (NQ);Methylation(KR)
+C1GLM2,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1GEM8,Carbamylation;Phosphorylation (STY)
+C1GJ98,Oxidation (M)
+C1GBT3,Carbamidomethylation;Methylation(KR);2-amino-3-oxo-butanoic_acid;Deamidation (NQ);Methylation(others)
+C1GAG3,Phosphorylation (STY);Formylation;Methylation(KR);Oxidation (M)
+C1G2J3,Biotinylation;Deamidation (NQ)
+C1GLM2,S-Ethylcystine from Serine
+C1GHJ0,Sulfation
+C1GBT0,Acetylation (N-term);Deamidation (NQ);Amidation;Dehydration
+C1GAW1,Carbamidomethylation
+C1GCY6,Carbamidomethylation
+C1G3Y8,Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1G6E0,Carbamidomethylation
+A0A0A0HUJ5,Menadione quinone derivative
+C1GAY4,Oxidation (M)
+C1GIW6,Dimethylation(KR)
+C1GB47,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dimethylation(KR);Carboxylation (DKW)
+C1G1F2,Carboxylation (E);Acetylation (K)
+C1FZ00,Dihydroxy
+C1GMI8,Biotinylation
+A0A0A0HT22,Carbamylation
+C1G391,Carbamylation;Methylation(KR)
+C1GLV8,Acetylation (N-term);Hexose (NSY);Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1G1T5,Carboxylation (E);Acetylation (K)
+"C1GLX8,""Naphthalene-2,3-dicarboxaldehyde"""
+C1GCT8,Amidation
+C1GMV8,Replacement of proton by potassium
+C1G411,Deamidation (NQ);Carbamidomethylation;Carboxylation (DKW);Biotinylation
+C1G3V2,Hexose (NSY);Methylation(KR)
+C1GLE5,Carbamidomethylation;Deamidation (NQ);Dehydration
+A0A0A0HT80,Phosphorylation (STY);Acetylation (K);Methylation(KR);Amidation;Dihydroxy
+C1G1C8,Formylation
+C1G064,Methylation(KR);Dihydroxy;Dehydration
+A0A0A0HYV6,Carbamidomethylation
+C1G1F2,Formylation;Methylation(KR)
+C1FYJ7,Acetylation (N-term)
+C1GA13,Deamidation (NQ);Carbamidomethylation
+C1GMU5,Sulphone
+C1GLM2,Biotinylation
+A0A0A0HRQ4,Pyro-glu from Q;Carbamidomethylation
+C1G3Y8,Oxidation (M);Carboxylation (E);Deamidation (NQ);Methylation(KR)
+C1GFA3,Dehydration;Deamidation (NQ);Methylation(KR)
+C1FZ57,Acetylation (N-term);Sulfation;Deamidation (NQ);Acetylation (K);Biotinylation
+C1GA17,Methylation(others)
+C1G3T6,Sodium adduct;Methylation(KR)
+C1G3M0,Dihydroxy
+C1G064,Dehydration;Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1G8H6,O-Diisopropylphosphorylation
+C1GAT8,Phosphorylation (STY);Carbamidomethylation;Acetylation (K)
+A0A0A0HWS3,Carbamylation
+A0A0A0HS69,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Phosphorylation (STY);Biotinylation
+C1GA20,Carbamylation;Methylation(KR)
+C1G0E5,Phosphorylation (STY);Acetylation (K);Sodium adduct
+C1G5F6,Methylation(others)
+C1GM00,Dihydroxy
+C1GHJ0,Hexose (NSY)
+C1GGT8,Phosphorylation (STY)
+C1GI69,Carbamidomethylation
+C1GG76,Pyro-glu from Q;Deamidation (NQ);Methylation(KR);Oxidation (M)
+C1GLX8,Hexose (NSY);Methylation(KR)
+C1FYJ6,Oxidation (M)
+C1G1C8,Oxidation (M);Dimethylation(KR)
+C1GFG5,Acetylation (N-term);Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Carboxylation (DKW)
+C1GEN5,Bis(hydroxphenylglyoxal) arginine
+C1G5F6,S-Ethylcystine from Serine
+C1G064,MDA adduct +54
+C1GJI7,Oxidation (M)
+C1GEM8,Acetylation (K);Carbamylation
+C1G9U8,Pyro-glu from Q;Carbamidomethylation;Methylation(KR)
+C1FYJ6,Methylation(KR)
+C1G8S5,Methylation(others)
+C1FYR6,Propionaldehyde +40
+C1G810,Phosphorylation (STY);Methylation(KR)
+C1FYR6,Persulfide
+C1GAK2,Carbamidomethylation
+C1GHE4,Pyro-glu from Q;Methylation(KR)
+C1GHJ0,Levuglandinyl-lysine anhydrolactam adduct
+C1G065,Phosphorylation (STY);Deamidation (NQ);Methylation(KR);Oxidation (M);Dihydroxy
+C1GBT0,Methylation(others)
+C1G6U5,Acetylation (N-term);Phosphorylation (STY);Dihydroxy
+C1G435,Carbamidomethylation
+A0A0A0HWK8,Phosphorylation (STY);Acetylation (K);Methylation(KR);Dehydration
+C1GBG1,Oxidation (M)
+C1GMZ1,Sodium adduct;Methylation(KR)
+C1FZI7,Carbamidomethylation;Acetylation (K);Methylation(KR);Menadione quinone derivative;Carbamylation;Carboxylation (DKW)
+C1GB47,Phosphorylation (STY);Carbamidomethylation;Methylation(KR);Carboxylation (DKW)
+C1G3D9,Oxidation (M)
+C1G4M5,Deamidation (NQ);Acetylation (K);Dimethylation(KR);Dihydroxy
+C1GKC9,Carbamylation;Carbamidomethylation;Methylation(KR)
+C1GHM0,Biotinylation
+C1G1F2,Ethylation
+C1GFU1,Oxidation (M)
+C1GGZ4,Oxidation (M);Carbamidomethylation
+C1G8H6,Amidation
+C1GBP4,Oxidation (M)
+C1G6T3,Carboxylation (DKW)
+C1GEN5,Ammonia-loss (N)
+C1FZ88,Carbamidomethylation
+C1GML7,Carbamidomethylation;Formation of five membered aromatic heterocycle
+C1GEN5,Carboxylation (E)
+C1FZI7,Dehydration;Deamidation (NQ);Oxidation (M)
+C1GID7,Oxidation (M)
+C1G942,Pyro-glu from E
+C1G2V1,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G1F2,Guanidination;Carbamidomethylation;Methylation(KR)
+C1GLV8,Dethiomethyl
+C1G561,Acetylation (Protein N-term);Oxidation (M)
+C1GAM9,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY)
+C1GBT0,Biotinylation
+C1GAW6,Dehydration
+C1GBN3,Deamidation (R)
+C1GAG4,Phosphorylation (STY);Carbamidomethylation;Acetylation (K);Methylation(KR);Carboxylation (DKW)
+C1FZT8,Acetylation (N-term);Oxidation (HW);Phosphorylation (STY)
+C1G0P0,Carbamidomethylation
+C1GAM5,Pyro-glu from Q;Carbamidomethylation
+C1G064,Dethiomethyl
+C1FYX6,Acetylation (N-term);Hexose (NSY);Sulphone;Phosphorylation (STY);Dehydration
+C1GMV8,Methylation(KR);Sulfation;Carbamidomethylation;Deamidation (NQ);Dehydration
+C1G0D4,Oxidation or Hydroxylation;Carbamidomethylation
+C1GLI2,Acetylation (N-term);Acetylation (K);Dihydroxy;Dehydration;Oxidation (M)
+C1GG76,Formylation
+C1GKW0,Carbamidomethylation
+C1GE52,Acetylation (N-term);Sodium adduct;Dehydration
+C1GLI2,Methylation(KR);Phosphorylation (STY);Carbamidomethylation;Deamidation (NQ);Dehydration
+C1FZG1,Oxidation (M)
+C1GM00,Methylation(others);Carbamidomethylation
+C1G712,Dehydration;Methylation(KR);Phosphorylation (STY)
+C1GHS5,Tryptophan oxidation to oxolactone
+C1G391,Ethylation
+C1G821,Methylation(KR);Dehydration
+C1GM03,Oxidation (M)
+C1G6E0,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1GHS5,Carbamidomethylation;Dehydration;Methylation(KR);Methylation(others)
+C1GK89,Oxidation (M)
+C1GMV8,Dehydration;Methylation(KR)
+C1G810,Carboxylation (DKW)
+C1G631,Myristoylation
+C1GG76,Deamidation (R)
+C1FZ00,Carbamidomethylation;Methylation(KR)
+C1G2V1,Methylation(KR);Deamidation (NQ);Carbamidomethylation
+C1G6T3,Dimethylation(KR)
+C1G2V1,Sodium adduct
+C1GM03,Methylation(KR)
+A0A0A0HV62,Amidation;Methylation(KR)
+C1GLI9,Carboxylation (E);Phosphorylation (STY)
+C1G0X4,Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1G6I9,Oxidation (M)
+C1GFG5,Sodium adduct
+C1GK89,Methylation(KR)
+C1GLA5,Methylation(others)
+C1G1T5,Sodium adduct;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GM00,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1G002,Phosphorylation (STY);Hexose (NSY);Dihydroxy
+C1G0D4,Replacement of 2 protons by nickel
+C1G942,Sulfation
+C1GK99,Dehydration;Methylation(KR)
+C1GII4,Methylation(others)
+C1G1T5,Phosphorylation (STY);Acetylation (K);Methylation(KR);Deamidation (NQ);Carbamidomethylation;Sodium adduct;Biotinylation
+C1G283,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G0D4,Carbamylation;Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1FZI7,Acetylation (K);Phosphorylation (STY)
+C1GHV7,Pyro-glu from Q
+C1GEM8,Acetylation (N-term);HexNAcylation (N);Acetylation (K);Oxidation (M)
+C1GJS2,Oxidation (M);Acetylation (K);Sodium adduct
+C1G712,Pyro-glu from E;Methylation(KR)
+C1G064,2-amino-3-oxo-butanoic_acid
+C1GKU3,Acetylation (Protein N-term)
+C1GG76,Lysine oxidation to aminoadipic semialdehyde
+C1G002,Deamidation (R)
+A0A0A0HW75,Carbamidomethylation
+C1FZ57,Glycidamide adduct
+C1G1T5,Carbamylation;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1G0X4,Oxidation (M);Methylation(KR)
+C1G1C8,Phosphorylation (STY);Hexose (NSY);Acetylation (K);Methylation(KR);Dimethylation(KR)
+C1FZT8,Amidation
+C1GE59,Oxidation (M)
+C1GHS5,N-acetyl neuraminic acid
+A0A0A0HS69,2-amino-3-oxo-butanoic_acid
+C1G283,Phosphorylation (STY);Methylation(KR);Dehydration
+C1G0X4,Methylation(KR)
+C1G194,Carbamidomethylation
+C1GBM4,Methylation(KR);Dehydration
+C1GLU6,Lysine oxidation to aminoadipic semialdehyde
+A0A0A0HUJ5,glycosylphosphatidylinositol
+C1FYW9,Methylation(others)
+C1G4M5,Ethanolation (KR)
+C1G065,Carbamidomethylation;Amidation;Methylation(KR);Oxidation (M)
+C1GMV8,Acetylation (N-term);Methylation(KR);Sodium adduct
+C1GD52,Oxidation (M)
+C1G9D5,2-amino-3-oxo-butanoic_acid
+C1GAT8,2-amino-3-oxo-butanoic_acid
+C1GBM4,Dehydration;Deamidation (NQ)
+C1GLD8,Oxidation (M)
+C1GEX7,Aminoethylbenzenesulfonylation
+C1G3Y8,Acetylation (N-term);Methylation(KR);Dimethylation(KR);Deamidation (NQ);Phosphorylation (STY);Oxidation (M);Sodium adduct
+A0A0A0HWS3,Dihydroxy;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1G002,Lysine oxidation to aminoadipic semialdehyde
+C1G989,Biotinylation;Carbamidomethylation;Acetylation (K);Deamidation (NQ)
+C1G1T5,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Phosphorylation (STY);Carbamidomethylation;Dehydration
+C1GGT8,Dehydration;Acetylation (K);Methylation(KR)
+C1G0P0,Deamidation (NQ)
+C1G064,Sodium adduct;Methylation(KR);Phosphorylation (STY)
+C1G712,Methylation(KR);Phosphorylation (STY);Acetylation (K);Amidation;Dehydration
+C1G3T6,Dihydroxy
+C1GCT8,Oxidation (HW)
+C1GKQ4,Carbamidomethylation
+C1G002,Carbamidomethylation;Methylation(KR);Carbamylation;Methylation(others);Biotinylation
+C1GJB5,Acetylation (Protein N-term)
+C1G371,Carbamylation
+C1G391,N-acetyl neuraminic acid;Carbamidomethylation
+A0A0A0HS69,Sodium adduct;Methylation(KR)
+C1GLI9,N-Succinimidyl-2-morpholine acetate
+C1G172,Methylation(others)
+C1G9U1,Pyro-glu from Q
+C1GEN5,Proline oxidation to pyroglutamic acid
+C1GFG5,Phosphorylation (STY);Methylation(KR);Amidation;Dehydration
+C1G766,Phosphorylation (STY);Methylation(KR)
+C1G9C0,Tryptophan oxidation to oxolactone
+C1G635,Carbamidomethylation
+C1G0E5,Acetylation (N-term);Methylation(KR);Amidation;Deamidation (NQ);Carboxylation (DKW);Dehydration;Dihydroxy;Biotinylation
+C1G4M5,Formylation;Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+A0A0A0HUJ5,Carbamidomethylation;Deamidation (NQ);Methylation(KR)
+C1GMZ1,Carboxylation (DKW)
+C1GBZ4,Pyro-glu from Q
+C1GLA5,Phosphorylation (STY);Acetylation (K);Methylation(KR);Dihydroxy
+C1G712,3-sulfanylpropanoyl
+C1G4P8,Methylation(KR);Acetylation (K)
+C1GAT8,Sodium adduct
+C1GHS5,Methionine replacement by azido homoalanine
+C1FYX6,Biotinylation
+C1GA32,Methylation(others);Carbamidomethylation
+C1G1Y7,Carbamidomethylation
+C1G0X4,Carbamidomethylation;Ammonia-loss (N);Methylation(KR)
+"C1G0E5,""Propionamide (K, X@N-term)"""
+C1G3T9,Carbamylation;Acetylation (K)
+C1GJS2,Methylation(KR)
+C1GE52,Biotinylation
+A0A0A0HWY2,Oxidation (M)
+C1G0D4,Fluorescein-5-thiosemicarbazide;Carbamidomethylation
+C1G065,Acetylation (N-term);Acetylation (K);Methylation(KR);Dimethylation(KR);Deamidation (NQ);Carbamylation;Oxidation (M);Formylation;Dehydration
+C1GN78,Methylation(KR)
+C1G989,glycosylphosphatidylinositol
+C1FZ57,Dehydration;Deamidation (NQ);Methylation(KR)
+A0A0A0HWK8,Oxidation (M)
+C1GCK9,Carbamylation;Methylation(KR)
+C1G1L3,Pyro-glu from Q
+C1GK99,Carbamylation;Methylation(KR)
+C1G9U1,Carbamidomethylation
+A0A0A0HWY2,Methylation(KR)
+C1GLX8,Beta-methylthiolation (ND)
+C1GDJ1,Dehydration;Carbamidomethylation;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1G3D9,Acetylation (N-term)
+C1G159,Pyro-glu from Q
+C1G9T0,Methylation(KR)
+C1G4M5,Methylation(KR);Carbamidomethylation;Phosphorylation (STY)
+C1G3Y8,Amidation
+C1GGT8,Carbamylation;Deamidation (NQ);Methylation(KR)
+C1G0E5,Deamidation (NQ);Methylation(KR);Dehydration
+C1GHJ0,Formylation
+A0A0A0HW80,Carbamidomethylation
+C1GEN5,Methylpyrroline
+C1G5V6,Dihydroxy
+C1GAG3,Carbamidomethylation;Acetylation (N-term);Methylation(KR);Guanidination
+C1G9D7,Piperidination
+C1GLV8,Phosphorylation (STY);Deamidation (NQ);Acetylation (K)
+C1GAG4,2-amino-3-oxo-butanoic_acid
+C1G821,2-amino-3-oxo-butanoic_acid
+C1GLM2,Dihydroxy;Deamidation (NQ)
+A0A0A0HUJ5,Acetylation (N-term);Sulfation;Acetylation (K);Methylation(KR);Deamidation (NQ);Phosphorylation (STY);Formylation;Carbamidomethylation;Dehydration
+C1G942,Dihydroxy;Methylation(KR)
+C1G5J0,Deamidation (NQ)
+C1GA32,Carbamidomethylation
+C1GBM4,Dethiomethyl
+C1GLI2,Deoxy;Carbamidomethylation
+C1G0D4,Ethylation
+C1GIW6,Methylation(KR)
+C1G064,Phosphorylation (STY);Acetylation (K);Methylation(KR)
+C1GM00,Phosphorylation (STY);Hexose (NSY);Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+A0A0A0HUJ5,Guanidination
+C1GGQ1,Carbamidomethylation
+C1G3Y8,Lysine oxidation to aminoadipic semialdehyde
+C1G3C4,Dehydration
+C1G1T5,Carbamidomethylation;Methylation(KR);Amidation;Ammonia-loss (N);Acetylation (N-term);Phosphorylation (STY);Dehydration
+C1G002,Dihydroxy;Phosphorylation (STY);Oxidation (M)
+C1GB65,Methylation(KR);Dimethylation(KR);Dehydration
+A0A0A0HVH2,Methylation(others)
+C1GA13,2-amino-3-oxo-butanoic_acid
+C1GG28,Carbamidomethylation
+C1G4M5,Methylation(others);Carbamidomethylation
+C1GFG5,Carboxylation (DKW);Acetylation (K)
+"A0A0A0HUJ5,""Propionamide (K, X@N-term)"""
+C1GM00,Acetylation (Protein N-term);Methylation(KR)
+A0A0A0HS69,Phosphorylation (STY)
+C1GJS2,Dihydroxy;Methylation(KR)
+A0A0A0HWK8,Carbamidomethylation;Ammonia-loss (N)
+C1GA81,Oxidation (M)
+C1GAG3,2-amino-3-oxo-butanoic_acid
+C1G248,Carbamidomethylation
+C1GAG4,Sodium adduct
+C1G635,Deamidation (NQ)
+C1G1F2,Acetylation (N-term);Methylation(KR);Carbamylation;Phosphorylation (STY);Oxidation (M);Carbamidomethylation
+C1G3T6,Pyro-glu from Q
+C1GCT8,Iodination
+A0A0A0HWS3,Glyoxal-derived hydroimiadazolone
+C1G1T5,Acetylation (K);Methylation(KR);Phosphorylation (STY)
+A0A0A0HUJ5,Acetylation (K)
+C1GKC9,Dimethylation(KR);Phosphorylation (STY)
+C1G1T5,Phosphorylation to amine thiol
+C1GFA3,2-amino-3-oxo-butanoic_acid
+C1G3V5,Carbamidomethylation
+A0A0A0HUJ5,Deamidation (NQ)
+C1G0D4,Methionine replacement by azido homoalanine
+C1GLA5,Carboxymethyl
+C1GJT8,Carbamylation
+C1GA97,Deamidation (NQ)
+C1GHE4,O-Diethylphosphorylation
+C1GGT8,Carbamidomethylation;Deamidation (NQ);Methylation(KR);Methylation(others)
+C1G9R9,Oxidation (M);Carbamidomethylation
+C1G371,Acetylation (N-term);Biotinylation
+C1G9X3,Carbamidomethylation;Deamidation (NQ);Methylation(KR)
+C1FYR6,2-amino-3-oxo-butanoic_acid
+A0A0A0HV62,Oxidation (HW);Methylation(KR)
+C1GAF5,Acetylation (TSCYH)
+C1FZ57,Carbamylation
+C1G0X4,Acetylation (N-term);Acetylation (K);Oxidation (M);Carboxylation (DKW)
+C1G3T6,Carbamidomethylation
+C1GLV8,Carboxylation (DKW)
+C1G371,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1GAG3,Sodium adduct;Methylation(KR)
+"C1G1F2,""Propionamide (K, X@N-term)"""
+A0A0A0HVP8,Deamidation (NQ);Carboxylation (E);Methylation(KR)
+C1G4C0,Oxidation (M)
+C1G810,Deamidation (R);Carbamidomethylation
+C1G411,Carboxylation (DKW);Phosphorylation (STY)
+C1GKQ6,Carbamidomethylation;Oxidation (M)
+C1G8H6,Carboxylation (E)
+C1G810,Carbamidomethylation;Proline oxidation to pyroglutamic acid;Methylation(KR)
+"C1G1T5,""Propionamide (K, X@N-term)"""
+C1G2J3,Acetylation (Protein N-term);Hexose (NSY);Deamidation (NQ);Methylation(KR)
+C1GHV2,Dehydration
+C1G0S4,Carbamidomethylation
+C1GG76,Phosphorylation (STY);Carboxylation (DKW)
+C1FZ57,Carboxylation (DKW);Methylation(KR)
+C1G283,Oxidation (M)
+A0A0A0HW80,Deamidation (NQ)
+C1GBJ2,Pyro-glu from Q
+C1G064,Carboxylation (DKW);Carbamidomethylation;Acetylation (K);Phosphorylation (STY)
+C1G065,Biotinylation
+C1GMU5,Pyro-glu from Q;Oxidation (M)
+C1G2W2,Carbamidomethylation
+C1G283,Methylation(KR);Acetylation (K);Phosphorylation (STY)
+C1GLM2,Dehydration;Methylation(KR)
+C1GM03,Amidation
+A0A0A0HWS3,Phosphorylation (STY);Methylation(KR);Dehydration
+C1G5M9,Carbamidomethylation
+C1G3T6,Propargylamine
+C1G3T6,Deamidation (NQ);Formylation;Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GJS2,Phosphorylation (STY);Sodium adduct;Dehydration
+C1GDK2,Lipoyl
+C1GEC6,Oxidation (M)
+C1FYW9,Carboxymethyl
+C1GDK2,Sulfation
+C1G8H6,Phosphorylation (STY);Deamidation (NQ)
+C1G1F2,Deamidation (NQ);Phosphorylation (STY);Acetylation (K);Methylation(KR);Guanidination
+C1G1T5,Deamidation (NQ);Acetylation (K);Methylation(KR);Amidation;Dimethylation(KR);Phosphorylation (STY)
+"C1GLV8,""Carboxymethyl (KW, X@N-term)"""
+C1GDK4,Acetylation (N-term)
+C1GEX7,Michael addition with methylamine
+A0A0A0HV62,Amidination of lysines or N-terminal amines with methyl acetimidate;Carbamidomethylation
+C1GGQ7,Carbamidomethylation
+C1GAW6,Carbamidomethylation;Lysine oxidation to aminoadipic semialdehyde;Deamidation (NQ);Sodium adduct;Dehydration
+C1GBX5,Carbamidomethylation
+C1GMC5,Oxidation (M)
+C1GB65,Dethiomethyl
+C1GHE4,Ubiquitin
+C1GL21,Oxidation (M)
+C1G9X9,Proline oxidation to pyroglutamic acid
+C1G810,Sulfation
+C1GKC9,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G0D4,Monoglutamyl
+C1G064,Dimethylation(KR)
+C1GN78,Acetylation (N-term)
+C1G7K8,Oxidation (M);Carbamidomethylation
+C1GE86,Dehydration;Oxidation (M)
+C1G3Y8,Acetylation (Protein N-term);Carboxylation (E);Methylation(KR);Phosphorylation (STY)
+C1GGQ1,Acetylation (Protein N-term)
+C1GA13,Phosphorylation (STY);Deamidation (NQ);Acetylation (K);Dehydration
+C1GN84,Carbamylation
+A0A0A0HT22,Pyro-glu from E
+C1GAQ4,Carbamidomethylation
+C1GAG4,Carbamidomethylation;Methylation(KR);Dimethylation(KR);Sodium adduct
+C1GDA8,Carboxymethyl
+C1G810,Oxidation (M);Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1G989,Methylation(others)
+C1G1J4,Oxidation (M)
+C1G391,Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+C1GB47,Dehydration
+C1G5V6,Deamidation (NQ);Acetylation (K);Methylation(KR);Dimethylation(KR);Phosphorylation (STY);Sodium adduct;Biotinylation
+C1G3L4,Carbamidomethylation
+C1G3T6,Acetylation (K)
+C1G1F2,Sodium adduct;Carbamidomethylation
+C1GCI0,Thiophosphorylation
+C1G2J3,Acetylation (N-term);Deamidation (NQ);Methylation(KR);Carboxylation (DKW);Sodium adduct
+C1GAT8,Dimethylation(KR)
+C1GEM8,2-amino-3-oxo-butanoic_acid
+C1G064,Acetylation (N-term);Acetylation (K);Methylation(KR);Dihydroxy;Deamidation (NQ);Phosphorylation (STY);Oxidation (M);Dehydration
+C1G7C1,Carbamidomethylation;Oxidation (M)
+C1GLI2,Carbamylation;Oxidation (M)
+C1G9P8,Thiophosphorylation
+C1GIX7,Formylation;Phosphorylation (STY)
+C1GB65,2-amino-3-oxo-butanoic_acid
+C1G0D4,Tyrosine oxidation to 2-aminotyrosine
+C1G0X4,Dethiomethyl
+C1GIE3,Carbamidomethylation
+C1GAM9,Carboxylation (DKW)
+C1GHE4,Oxidation (M)
+C1GG76,Oxidation (M);Methylation(KR)
+C1G7L4,Oxidation (M);Dehydration
+C1G5F6,Carbamylation;Carbamidomethylation;Methylation(KR);Deamidation (NQ)
+C1GLX8,Carbamylation;Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+C1G0E5,Sulfation;Phosphorylation (STY)
+A0A0A0HQN9,Methylation(others)
+C1GEN5,Dihydroxy
+C1G0E5,Acetylation (K);Deamidation (NQ);Methylation(KR)
+C1FYR6,Phosphorylation (STY);Hexose (NSY)
+C1GHE4,Methylation(KR)
+C1G1T5,Biotinylation
+C1GJS2,Amidation
+C1G7L4,Methylation(KR)
+C1GHV2,Carboxylation (DKW);Methylation(KR)
+C1G2V1,Oxidation (HW);Methylation(KR)
+C1GMI6,Sodium adduct;Methylation(KR)
+C1G391,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G3T6,Acetylation (Protein N-term)
+C1FYM2,2-amino-3-oxo-butanoic_acid
+A0A0A0HWY2,Deamidation (R)
+C1GEM8,Sodium adduct
+C1GN52,Carbamylation;Phosphorylation (STY)
+C1GB13,Methylation(others)
+A0A0A0HWY2,Amidation
+C1G9X3,Methylation(others)
+C1G970,Deamidation (NQ)
+C1GAM1,Carbamidomethylation
+C1GB65,Sodium adduct
+C1G233,Oxidation (M)
+C1GLA5,Replacement of proton by lithium
+C1GJS2,Lysine oxidation to aminoadipic semialdehyde
+C1GBJ2,Michael addition with methylamine
+C1G0D4,Deamidation (NQ);Acetylation (K);Methylation(KR);Oxidation (HW);Phosphorylation (STY);Formylation;Carbamidomethylation
+C1G002,Biotinylation;Deamidation (NQ)
+C1GMS3,Carbamidomethylation
+C1G0D4,Acetylation (N-term);Sulfation;Methylation(KR);Deamidation (NQ);Oxidation (M);Carbamidomethylation;Sodium adduct;Dihydroxy
+C1FYR1,Methylation(KR)
+C1G7P8,Oxidation (M)
+C1G413,Carboxylation (E)
+C1GBZ4,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+A0A0A0HT80,Dihydroxy
+C1GB49,Formylation
+C1GCT8,Tryptophan oxidation to oxolactone
+A0A0A0HWY2,Lysine oxidation to aminoadipic semialdehyde
+C1GCT8,Carbamidomethylation;Methylation(KR);Deamidation (NQ);Methylation(others);Oxidation (M);Dehydration
+C1FYJ9,Carbamidomethylation
+C1GCX5,Acetylation (N-term);Deamidation (NQ);Methylation(KR)
+C1FYJ7,Carbamylation;Methylation(KR)
+C1GFG5,Pyro-glu from E
+C1GJ83,Oxidation (M)
+C1GAG4,Dimethylation(KR)
+C1G3L4,Acetylation (K)
+C1G821,Dimethylation(KR)
+A0A0A0HT22,Oxidation (M)
+C1G820,Acetylation (K)
+C1G9X3,Biotinylation
+C1GHS5,Methylation(others)
+A0A0A0HVT2,Acetylation (Protein N-term)
+C1GBM4,Carboxylation (DKW)
+C1G820,Deamidation (NQ);Methylation(KR)
+C1GB47,Carbamylation;Acetylation (K)
+C1G064,Oxidation (HW);Methylation(KR)
+C1G0U1,Oxidation (M)
+C1G6V7,Carbamidomethylation
+A0A0A0HT22,Methylation(KR);Formylation
+C1G283,Acetylation (N-term);Carbamylation;Oxidation (M);Dehydration
+C1G0X4,Sodium adduct
+C1GKC9,Oxidation (M);Acetylation (K);Sodium adduct;Phosphorylation (STY)
+C1FYW9,Replacement of proton by lithium
+C1FYR6,Carboxylation (DKW)
+C1GBZ4,Deoxy
+C1G3C4,Oxidation (M);Carbamidomethylation
+A0A0A0HVP8,Sulfation;Phosphorylation (STY)
+C1G712,Amidination of lysines or N-terminal amines with methyl acetimidate
+A0A0A0HWS3,Oxidation (M);Formylation
+A0A0A0HT57,Methylation(KR);Carbamidomethylation;Dehydration
+C1GHS5,Formylation;Phosphorylation (STY)
+C1GA20,Oxidation (M)
+C1GMI6,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Phosphorylation (STY);Carbamidomethylation;Sodium adduct;Dihydroxy;Biotinylation
+"C1G0D4,""Propionamide (K, X@N-term)"""
+C1G712,Michael addition with methylamine
+C1G3T9,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GBM4,O-Isopropylmethylphosphonylation
+A0A0A0HV62,N-Succinimidyl-2-morpholine acetate
+C1G2J3,Methylation(others)
+A0A0A0HWS3,Methylation(KR);Phosphorylation (STY)
+C1GA20,Methylation(KR);Phosphorylation (STY);Dehydration
+C1G2V1,Sulfation
+C1G3Y8,Arginine replacement by Nitropyrimidyl ornithine
+C1GFG5,Sulfation
+C1GB65,Phosphorylation (STY)
+C1GGI0,Oxidation (M);Carbamidomethylation
+C1GK99,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G9P6,Formylation
+A0A0A0HV62,Carbamylation;Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GLM4,Acetylation (N-term);Phosphorylation (STY)
+C1FYR6,Deamidation (NQ);Sodium adduct;Amidation;Dehydration
+C1GM00,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1GKG3,Pyro-glu from Q
+C1GEX7,Oxidation (M)
+C1FYW9,Dehydration;Deamidation (NQ);Methylation(KR)
+A0A0A0HT22,Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY);Formylation;Sodium adduct
+C1G411,Biotinylation
+C1G9C0,Deamidation (NQ)
+C1GE52,Dehydration
+C1GEX7,Methylation(KR);Dehydration
+C1FZT8,Trifluoroleucine
+C1GBZ4,Propionaldehyde +40
+C1FZT8,N-Succinimidyl-2-morpholine acetate
+C1G283,Deamidation (R)
+A0A0A0HT57,Deamidation (NQ);Phosphorylation (STY)
+C1GEN5,Carbamidomethylation;Methylation(KR)
+C1G283,Amidation;Methylation(KR)
+C1GIX7,Phosphorylation (STY);Methylation(KR);Sodium adduct
+C1GAM9,Carbamylation;Methylation(KR);Phosphorylation (STY)
+C1GBX3,Carbamidomethylation
+C1GH49,Carbamidomethylation
+C1GF71,Pyro-glu from Q;Deamidation (NQ)
+C1G065,Dehydration;Carbamidomethylation;Acetylation (K);Methylation(KR)
+C1G064,Diethylation
+C1GKC9,Methylation(KR);Deamidation (NQ);Acetylation (K);Dehydration
+C1G2V1,Hexose (NSY)
+C1GN78,Carbamidomethylation;Deamidation (NQ);Dehydration
+C1G5F6,Dihydroxy;Methylation(KR)
+C1G8E5,Carbamidomethylation
+C1GAF5,Ethyl amino
+C1G373,Oxidation (M)
+C1GLX8,Propionaldehyde +40
+C1GEN5,Propargylamine
+C1G0D4,Methylation(others);Carbamidomethylation
+A0A0A0HS69,Diethylation
+A0A0A0HT80,Hypusine
+C1G064,Sulfation
+C1G0D4,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1GHE4,Acetylation (N-term)
+C1GN52,Dehydration;Methylation(KR)
+C1G3V8,Oxidation (M)
+C1G283,Dethiomethyl
+C1G6T3,Formylation
+C1GM03,Carboxylation (E)
+A0A0A0HS69,Lipoyl
+C1G092,Deamidation (NQ)
+C1GHV2,Pyro-glu from Q;Methylation(KR)
+C1G1C8,Sodium adduct;Acetylation (K)
+C1G0E5,Replacement of proton by lithium
+C1GJR0,Carbamidomethylation
+C1GAT8,Sulfation
+C1G810,Oxidation or Hydroxylation
+C1G0E3,Ammonia-loss (N)
+C1GMI6,Deamidation (NQ);Carbamidomethylation;Dimethylation(KR);Amidation;Methylation(KR)
+C1G9P8,Pyro-glu from Q;Carbamidomethylation
+C1GM03,Myristoylation
+C1G1C8,Dihydroxy
+C1G0D4,Biotinylation
+A0A0A0HS69,Oxidation (M);Phosphorylation (STY)
+C1G3T6,Dehydration;Methylation(KR)
+C1G002,Deamidation (NQ);Methylation(KR);Carbamidomethylation;Sodium adduct;Acetylation (K)
+C1GGG3,Methylation(KR)
+C1G065,Replacement of proton by lithium
+C1GLX8,Acetylation (K);Sodium adduct;Biotinylation
+C1GDK2,Deamidation (R)
+C1G810,Benzoyl
+C1G1Y1,Carbamidomethylation
+C1G064,Hexose (NSY)
+C1GB65,Deamidation (NQ);Amidation
+C1G810,Formylation;Acetylation (K)
+C1GHS5,Sulfation;Phosphorylation (STY)
+C1G3Y8,N-Succinimidyl-2-morpholine acetate
+C1GMV8,Dimethylation(KR)
+C1GF83,Carbamidomethylation
+C1FYX6,Carbamylation
+C1FYE6,Oxidation (M)
+C1GB65,Dimethylation(KR);Methylation(KR)
+C1G9D7,Acetylation (K);Hexose (NSY)
+C1GLI2,Phosphorylation (STY);Deamidation (NQ);Dimethylation(KR)
+C1G0X4,Carboxylation (DKW)
+C1FZI7,Carbamylation
+C1G0E5,Dehydration;Methylation(KR)
+A0A0A0HV62,Ethylation
+C1GLI9,Methylation(others);Carbamidomethylation
+C1G2V1,Acetylation (N-term);Phosphorylation (STY)
+C1GB82,Carbamidomethylation
+C1FZ57,Oxidation (M);Methylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY);Sodium adduct
+C1GBT0,Replacement of proton by silver
+C1G1P0,Carboxylation (DKW)
+C1GGC0,Carbamidomethylation
+A0A0A0HVP8,Carbamylation;Deamidation (NQ)
+C1GEN5,Deamidation followed by a methylation
+C1GA17,Pyro-glu from Q;Methylation(KR)
+C1GLA5,Sodium adduct;Acetylation (K)
+C1G3C4,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G6M3,Pyridylacetyl
+A0A0A0HT57,Acetylation (N-term)
+C1GHV7,Acetylation (Protein N-term);Oxidation (M)
+C1FYR6,Methylation(C-term)
+C1GB65,Acetylation (N-term);Acetylation (K);Dimethylation(KR);Methylation(KR);Phosphorylation (STY);Oxidation (M);Carbamidomethylation;Dihydroxy
+C1G561,Oxidation (M)
+C1GLA5,Dihydroxy
+C1G5Y3,Pyro-glu from Q;Carbamidomethylation
+C1GGT8,Methylation(others)
+C1G002,Ethylation
+C1GMI6,Glycerylphosphorylethanolamine
+C1GE03,Pyro-glu from Q
+C1GBM4,Acetylation (N-term);Deamidation (NQ);Oxidation (M)
+C1GBJ2,Dimethylation(KR);Phosphorylation (STY)
+C1G1F2,Glycidamide adduct
+C1GM00,Acetylation (N-term);Methylation(KR);Deamidation (NQ);Carboxylation (DKW);Sulphone;Phosphorylation (STY);Oxidation (M);Sodium adduct
+C1GMV6,Oxidation (M);Carbamidomethylation
+C1G942,Phosphorylation (STY);Deamidation (NQ);Acetylation (K)
+C1GGT8,S-Ethylcystine from Serine
+C1GAG4,Sulfation
+C1G8H6,Acetylation (TSCYH)
+C1G821,Sulfation
+C1GCI0,Sulfation
+C1G785,Carbamidomethylation
+C1G5F6,Alpha-amino adipic acid
+C1G0E5,N-pyruvic acid 2-iminyl
+C1GF61,Oxidation (M)
+C1G371,Methylation(KR)
+C1GKC9,Phosphorylation (STY);Acetylation (K);Methylation(KR);Oxidation (M);Formylation;Sodium adduct
+C1GBT0,Pyro-glu from Q
+C1GCS1,Carbamidomethylation
+C1GA13,Acetylation (Protein N-term);Amidation
+C1G3T9,Oxidation (M)
+C1GF61,Methylation(KR)
+C1FYR6,Pyro-glu from E
+A0A0A0HUJ5,Dehydration;Methylation(KR)
+A0A0A0HT22,Phosphorylation (STY);Formylation;Acetylation (K);Dehydration;Biotinylation
+C1GDJ1,Replacement of 2 protons by iron
+C1G2V1,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+A0A0A0HT80,5-dimethylaminonaphthalene-1-sulfonyl
+C1G989,Sulphone
+C1G3Y8,Carbamidomethylation;Methylation(KR);Deamidation (R)
+C1G3T9,Methylation(KR)
+C1G0G4,Deamidation (NQ);Myristoylation
+C1G606,Oxidation (M)
+C1GK99,Oxidation (M)
+C1GMZ1,Formylation
+C1GAG3,Sulfation
+C1G8H6,Acetylation (N-term);Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dehydration
+C1GDE6,Carbamidomethylation
+C1GMN0,Carbamidomethylation
+C1GCK9,Methylation(KR)
+C1GIX7,Replacement of proton with ammonium ion
+C1GK99,Methylation(KR)
+A0A0A0HVP8,Dehydration
+C1G3C4,Acetylation (K);Phosphorylation (STY)
+A0A0A0HU84,2-amino-3-oxo-butanoic_acid
+C1GFA3,Sulfation
+A0A0A0HWS3,Amidation
+C1G4K1,Acetylation (TSCYH)
+C1G0E3,Proline oxidation to pyroglutamic acid
+C1GA13,Dehydration;Carbamidomethylation;Methylation(KR)
+C1G1V9,Carbamidomethylation
+C1GM08,Carbamidomethylation
+C1G0B0,Methylation(others)
+C1GM00,2-amino-3-oxo-butanoic_acid
+C1G2V1,Carbamidomethylation;Methylation(KR);Amidation;Deamidation (NQ);Phosphorylation (STY);Deamidation (R);Dehydration
+C1GLJ7,Oxidation (M)
+A0A0A0HV09,Carbamidomethylation
+C1GMI6,Oxidation (HW);Methylation(KR)
+C1GCI0,Oxidation (M)
+C1G1C8,Carbamidomethylation
+C1GDJ1,Dimethylation(KR)
+C1G2V1,Ethanolation (KR)
+C1G6U5,Pyrrolidone from Proline
+C1G712,Phosphorylation (STY);Acetylation (K);Methylation(KR);Biotinylation
+C1GM91,Pyro-glu from Q
+C1GA13,Hexose (NSY)
+C1GLJ7,Methylation(KR)
+C1G1F2,Dehydration;Methylation(KR)
+C1GCI0,Methylation(KR)
+C1G065,Carbamylation
+C1G352,Carbamidomethylation
+C1G065,3-sulfanylpropanoyl
+C1G391,Replacement of proton by lithium
+A0A0A0HWS3,Lysine oxidation to aminoadipic semialdehyde
+C1GLA5,Aminoethylcysteine
+C1GAG3,Hexose (NSY)
+C1G9D7,Oxidation (M)
+C1FZ57,Oxidation to nitro
+C1GCK9,Deamidation (NQ);Phosphorylation (STY)
+C1G0X4,N-Succinimidyl-2-morpholine acetate
+C1GLA5,Pyro-glu from Q;Deamidation (NQ)
+C1G7Y9,Oxidation (M)
+C1G9D7,Methylation(KR)
+C1GII4,Pyro-glu from Q
+C1GKC9,Deamidation (R)
+C1G5F6,Acetylation (K)
+C1GM08,Phosphorylation (STY);Myristoylation
+C1GKC9,Amidation
+C1GFG5,Formylation;Acetylation (K)
+C1GMZ1,Methylation(others)
+C1GF12,Carbamidomethylation
+C1GMU5,Carboxylation (E);Oxidation (M)
+A0A0A0HV62,Carboxylation (DKW);Phosphorylation (STY)
+C1GB47,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GAM9,Monoglutamyl
+C1GLX8,Acetylation (N-term);Acetylation (K);Methylation(KR);Carboxylation (DKW);Oxidation (M);Phosphorylation (STY);Carbamidomethylation;Dehydration;Biotinylation
+C1GEX7,Dethiomethyl
+A0A0A0HUJ5,Carbamylation;Methylation(KR);Phosphorylation (STY)
+C1G064,Carbamidomethylation;Phosphorylation (STY);Oxidation (M)
+C1GB65,Pyro-glu from E;Methylation(KR)
+C1GDJ1,Methylation(KR);Oxidation (M);Carboxylation (DKW)
+C1G1T5,Phosphorylation (HCDR)
+C1GHS5,Sulphone
+C1FYW9,Aminoethylcysteine
+C1G9X0,Pyro-glu from Q
+C1G1H4,Carbamidomethylation
+C1G3Y8,Methionine replacement by azido homoalanine
+C1GBT0,Methylation(KR);Formylation;Carbamidomethylation;Acetylation (K);Amidation
+C1GIQ5,Carbamidomethylation
+A0A0A0HS69,ADP Ribose addition
+C1G065,Carboxyethyl
+C1GHX0,Carbamidomethylation
+C1GHS5,Replacement of proton by lithium
+C1G9X3,Dehydration
+A0A0A0HYS7,Oxidation (M)
+C1GBJ2,Dehydration;Deamidation (NQ)
+C1FYW9,Pyro-glu from Q;Deamidation (NQ)
+C1G4M5,Dihydroxy
+C1FZ57,Methylation(KR)
+C1GDE1,Carbamidomethylation
+C1GCI0,Acetylation (N-term);Acetylation (K);Phosphorylation (STY)
+C1FYX6,Condensation product of 3-deoxyglucosone
+C1GBZ4,2-amino-3-oxo-butanoic_acid
+C1G3V2,2-amino-3-oxo-butanoic_acid
+C1GM08,Deamidation (NQ)
+C1GAA3,Oxidation (M)
+C1GBT0,Michael addition with methylamine
+C1G0B0,Phosphorylation to pyridyl thiol
+A0A0A0HV09,Deamidation (NQ)
+C1GDK2,Bis(hydroxphenylglyoxal) arginine
+C1GB65,Diethylation
+"C1G002,""Carbamidomethylation";"Propionamide (K, X@N-term)"""
+C1GLV8,Formylation;Acetylation (K)
+C1G1C8,Deamidation (NQ);HexNAcylation (N)
+C1GA13,Acetylation (N-term);Deamidation (NQ);Sodium adduct;Phosphorylation (STY)
+C1GIR0,2-amino-3-oxo-butanoic_acid
+C1FYP7,Oxidation (M)
+C1GDA8,Methylation(others);Carbamidomethylation
+C1G064,Formylation;Methylation(KR);Phosphorylation (STY)
+C1GCT8,Methylation(others)
+C1G391,Phosphorylation (HCDR)
+C1GG76,Carbamidomethylation;Methylation(KR)
+C1GB65,Sulfation
+C1GCT8,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G5T0,Carbamidomethylation;Deamidation (NQ);Methylation(KR);Dehydration
+C1G1F2,Carbamylation;Carbamidomethylation;Acetylation (K);Methylation(KR)
+C1GHS5,Dehydration
+"C1G8H6,""Propionamide (K, X@N-term)"""
+C1GEN5,Dehydration;Methylation(KR)
+C1G6T3,Ammonia-loss (N)
+C1G114,Carbamidomethylation
+C1G1V9,Acetylation (Protein N-term)
+C1GM08,Acetylation (Protein N-term)
+A0A0A0HS69,Formylation
+C1GBZ4,Sodium adduct;Acetylation (K)
+C1G9X3,Phosphorylation (HCDR)
+C1GLU6,Carbamidomethylation;Methylation(KR)
+C1GKG3,Dehydration;Methylation(KR)
+C1GDJ1,Oxidation (HW);Methylation(KR)
+C1GBC4,Carbamidomethylation
+C1G411,Dehydration;Methylation(KR)
+C1FZT8,Carbamidomethylation;Deamidation (NQ)
+C1G1P4,Oxidation (M)
+C1FZB5,Acetylation (Protein N-term)
+A0A0A0HV62,Phosphorylation to amine thiol
+C1GE52,Deamidation (NQ);Acetylation (K);Oxidation (M);Dehydration
+C1GB11,Formylation
+C1G2I2,Amidation
+C1GMI6,Hexose (NSY)
+C1G1P4,Methylation(KR)
+C1GM00,Amidation;Methylation(KR)
+C1GKR7,Methylation(others)
+C1GLX8,Sodium adduct;Acetylation (K)
+C1G5F6,Oxidation (M);Carbamidomethylation;Acetylation (K);Methylation(KR);Dehydration
+C1G3Y8,Glyoxal-derived hydroimiadazolone;Carbamidomethylation
+C1GCI0,Replacement of proton with ammonium ion;Carbamidomethylation
+C1GMV8,Oxidation (M)
+C1GBZ4,Deamidation (NQ);Formylation
+C1GMU5,Acetylation (N-term);Dimethylation(KR);Deamidation (NQ);Carboxylation (DKW);Sodium adduct;Dehydration
+A0A0A0HT80,Dehydration;Methylation(KR)
+C1G0D4,Sulphone;Deamidation (NQ)
+C1G391,3-sulfanylpropanoyl
+C1GLI2,Oxidation (M);Phosphorylation (STY);Acetylation (K);Amidation
+C1GHS5,Phosphorylation (HCDR)
+C1G065,Oxidation (M);Carbamidomethylation;Phosphorylation (STY)
+C1GLV8,Methylation(others)
+C1G7C1,Dehydration
+C1FZL2,Carbamidomethylation
+C1GMV8,Menadione hydroquinone derivative
+C1FZF8,Amidation
+"C1G0D4,""Carbamidomethylation";"2,3-dihydro-2,2-dimethyl-7-benzofuranol N-methyl carbamate"""
+C1GII4,Michael addition with methylamine
+C1GDE1,Deamidation (NQ)
+C1GMI8,Oxidation (M)
+C1G0E5,Carbamidomethylation;Ammonia-loss (N);Methylation(KR);Sodium adduct
+A0A0A0HT80,Propionaldehyde +40
+C1G065,Sulfation;Methylation(KR)
+C1G371,Amidation
+C1GAF5,Dehydration;Acetylation (K)
+C1GDJ1,Carbamylation;Carbamidomethylation;Deamidation (NQ)
+C1G8T2,Carbamidomethylation
+C1G8H6,Methylation(others)
+C1G4M5,Pyro-glu from Q
+C1G002,Guanidination
+A0A0A0HS69,Methylation(others)
+C1G6U5,Carbamidomethylation;Acetylation (K);Phosphorylation (STY)
+C1G3T9,Amidation
+C1GLU6,Acetylation (N-term);Deamidation (NQ);Acetylation (K);Phosphorylation (STY)
+C1GG76,Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1GA20,Phosphorylation (STY);Deamidation (NQ)
+C1G9D7,O-Diisopropylphosphorylation
+C1GBZ4,Phosphorylation (STY)
+C1G411,Piperidination
+C1G413,Carbamidomethylation
+C1GA17,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Oxidation (M);Carbamidomethylation;Dihydroxy
+C1GCK9,Amidation
+A0A0A0HUJ5,Oxidation (M);Carbamidomethylation
+C1GK99,Amidation
+C1G821,Phosphorylation (STY);Dihydroxy
+C1G064,Acetylation (K);Deamidation (NQ);Methylation(KR)
+C1GFP4,Deamidation (NQ)
+C1GBJ2,2-amino-3-oxo-butanoic_acid
+C1G9C0,Dehydration;Methylation(KR);Phosphorylation (STY)
+C1GAY4,ADP Ribose addition
+C1G0D4,Dehydration;Deamidation (NQ);Methylation(KR)
+C1G2V1,Nethylmaleimidehydrolysis
+C1GLU6,Deamidation (NQ);Methylation(KR)
+C1GAG4,Formylation
+C1GI12,Deamidation (NQ)
+C1GMU5,2-amino-3-oxo-butanoic_acid
+C1GDJ1,Sulfation
+C1GF71,Oxidation (M);Methylation(KR)
+C1G3T9,Lysine oxidation to aminoadipic semialdehyde
+C1GKU6,Oxidation (M)
+C1GEX7,Phosphorylation (STY);Deamidation (NQ);Acetylation (K)
+C1GHV2,Deamidation (NQ);Carbamidomethylation
+C1G8H6,Biotinylation
+C1GBT0,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+A0A0A0HT22,Carboxylation (E);Acetylation (K)
+A0A0A0HUJ5,Dihydroxy;Acetylation (K)
+A0A0A0HV89,Oxidation (M)
+C1G4K1,Methylation(others)
+C1GCK9,Lysine oxidation to aminoadipic semialdehyde
+A0A0A0HV62,Methylation(others)
+C1GM00,Dimethylation(KR)
+C1GB65,Dihydroxy;Methylation(KR);Phosphorylation (STY)
+C1GCI0,Amidation
+A0A0A0HWK8,Ethylation
+C1G9P8,Deamidation (R)
+C1G6T3,Proline oxidation to pyroglutamic acid
+C1G411,Phosphorylation (STY);Amidation;Acetylation (K);Methylation(KR);Oxidation (M)
+C1GBJ2,Sodium adduct
+C1G5F6,Methylation(KR);Carbamidomethylation;Deamidation (NQ);Dehydration
+C1G9F5,Sodium adduct
+C1GMU5,Methylation(KR);Deamidation (NQ)
+C1GJD3,Pyro-glu from Q
+C1GAY4,Formylation
+C1G810,MDA adduct +62
+A0A0A0HV62,Formylation;Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+C1G887,Acetylation (Protein N-term)
+C1GAG4,Lysine oxidation to aminoadipic semialdehyde
+C1G9D7,Carboxylation (DKW);Oxidation (M)
+C1G1T5,Oxidation (M);Carbamidomethylation
+C1GEK5,Dihydroxy
+C1GAM9,Methylation(others)
+C1G5V6,Sodium adduct
+C1GDJ1,Hexose (NSY);Deamidation (NQ);Phosphorylation (STY)
+C1G5F6,Dehydration;Carbamidomethylation;Methylation(KR)
+C1GDK2,Oxidized Arginine biotinylated with biotin hydrazide
+C1GB99,Methylation(others)
+C1GA20,Carboxylation (DKW)
+C1GLJ7,Dethiomethyl
+C1G712,2-amino-3-oxo-butanoic_acid
+A0A0A0HV62,Biotinylation
+C1GG76,Biotinylation
+C1G4T5,Acetylation (N-term)
+C1G1F2,Dihydroxy;Acetylation (K)
+C1G5F6,Propionaldehyde +40
+C1GAF5,3-sulfanylpropanoyl
+C1GM03,Carbamidomethylation;Deamidation (NQ);Sodium adduct;Phosphorylation (STY)
+C1G1T5,Dihydroxy;Acetylation (K)
+C1G6U5,Deamidation (NQ)
+C1GIW6,Carbamidomethylation;Oxidation (M)
+C1GHN2,Carbamidomethylation
+C1GIX7,Dihydroxy;Phosphorylation (STY)
+C1G9D7,Dethiomethyl
+C1G1F2,Beta-methylthiolation (ND)
+C1GEX7,Carboxylation (DKW)
+C1G6I0,Oxidation (M)
+C1GMW4,Acetylation (TSCYH)
+C1G0E5,Methylation(KR);Acetylation (K);Dimethylation(KR);Deamidation (NQ);Formylation;Dehydration
+C1G0D4,Deamidation followed by a methylation;Carbamidomethylation
+C1G3M8,Carbamidomethylation
+C1G989,Pyro-glu from Q
+C1G9C0,Carbamylation
+C1G712,Sodium adduct;Phosphorylation (STY)
+C1G3T6,Amidation;Methylation(KR)
+C1G0E5,Michael addition with methylamine
+C1GHE4,Carbamylation;Methylation(KR)
+C1GAG3,Acetylation (N-term);Acetylation (K);Methylation(KR);Amidation;Dihydroxy;Carbamidomethylation;Dehydration
+C1GMI6,Carbamidomethylation;Deamidation (NQ);Phosphorylation (STY)
+C1G2V1,Carboxylation (E)
+C1GBT0,Deamidation (NQ);Carbamidomethylation;Dihydroxy
+"C1GLI9,""Naphthalene-2,3-dicarboxaldehyde"""
+C1GED5,Pyro-glu from Q
+C1GAY4,Methylation(others)
+C1G065,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GBJ2,Phosphorylation (STY);Deamidation (NQ)
+C1GII4,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Sodium adduct;Dimethylation(KR)
+C1FYJ9,Carbamylation
+C1GFZ5,Carbamidomethylation
+C1G065,Michael addition with methylamine
+C1FZ57,Dethiomethyl
+C1GBM4,Methylation(others)
+C1G6F6,Deamidation (NQ);Methylation(KR)
+C1GHJ0,Deamidation (NQ);Oxidation (HW);Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GBJ2,Hexose (NSY);Acetylation (K)
+C1FZI7,O-Isopropylphosphorylation
+C1G4R2,2-amino-3-oxo-butanoic_acid
+C1GHV2,Acetylation (N-term)
+C1GA42,Carbamidomethylation
+C1G283,Ethylation
+C1FYR6,Acetylation (N-term);Dimethylation(KR);Dehydration;Sodium adduct
+A0A0A0HYV6,Oxidation (M)
+C1FZT8,Phosphorylation (STY);Methylation(KR)
+C1GLA5,Pyridoxal phosphate
+C1G3Y8,Methylation(others);Carbamidomethylation
+C1FZI7,Michael addition with methylamine;Carbamidomethylation
+C1G810,Carbamylation;Carbamidomethylation;Methylation(KR)
+C1G0E3,Carbamidomethylation;MDA adduct +54;Acetylation (K);Methylation(KR);Amidation
+A0A0A0HYV6,Methylation(KR)
+C1G092,Carbamylation
+C1G4C0,Carbamidomethylation;Oxidation (M)
+C1FZN1,Carbamidomethylation
+C1G496,Carbamidomethylation
+C1GMI6,Formylation;Acetylation (K);Phosphorylation (STY)
+C1GCT8,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Oxidation (M);Dehydration
+C1G391,Alpha-amino adipic acid
+C1GLA5,Dehydration;Deamidation (NQ);Methylation(KR)
+C1GDK2,Phosphorylation (STY);Hexose (NSY);Acetylation (K)
+C1G2V1,Fluorination
+A0A0A0HUJ5,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G7L5,Carbamidomethylation
+C1G4M5,Carbamylation;Methylation(KR);Phosphorylation (STY)
+C1G3L4,Methylation(KR);Carbamidomethylation;Phosphorylation (STY)
+A0A0A0HUJ5,Michael addition with methylamine
+C1G064,Carboxylation (E);Methylation(KR)
+C1G570,Carbamidomethylation
+C1FYM2,Oxidation or Hydroxylation
+C1GMV8,Amidation;Methylation(KR)
+C1G1P4,Lysine oxidation to aminoadipic semialdehyde
+C1GIX7,Pyro-glu from Q
+C1G411,Dihydroxy;Acetylation (K);Methylation(KR)
+A0A0A0HWS3,Trifluoroleucine
+C1G3T9,Ubiquitination
+C1GCF0,Carbamidomethylation
+C1GN83,Carbamidomethylation
+A0A0A0HV89,Acetylation (N-term)
+C1GBJ2,Carboxylation (DKW)
+C1GA20,N-Succinimidyl-2-morpholine acetate
+C1GA17,Methylation(KR);Dehydration
+C1G0E3,Fluorescein-5-thiosemicarbazide
+C1GKC9,Formylation;Deamidation (NQ);Phosphorylation (STY)
+C1G3T6,Dimethylation(KR)
+C1FZI7,Oxidation (M)
+C1FYX6,Methylation(KR)
+C1GK99,Phosphorylation (STY);Deamidation (NQ);Methylation(KR)
+C1GEN5,Carbamylation;Methylation(KR)
+C1FZI7,Methylation(KR)
+C1GB47,Methylation(KR);Dehydration
+C1GB47,Acetylation (N-term);Methylation(KR);Phosphorylation (STY)
+A0A0A0HS08,Carbamidomethylation
+C1GKI5,Carbamidomethylation
+C1GIX7,Carbamidomethylation
+C1FZ57,Sodium adduct
+C1GHS5,Alpha-amino adipic acid
+C1GJI0,Dehydration
+C1G3M8,Acetylation (Protein N-term)
+C1GEX7,Replacement of 2 protons by nickel
+C1G064,Oxidation (M);Methylation(KR);Dehydration
+C1GM00,Diethylation
+C1G1F2,Michael addition with methylamine
+C1G9X3,Deamidation (NQ);Methylation(KR);Dehydration
+C1G9C0,Pyro-glu from Q;Methylation(KR)
+C1GLA5,O-Ethylphosphorylation
+C1G283,Acetylation (TSCYH)
+C1G1F2,Replacement of proton by copper
+C1G821,Bis(hydroxphenylglyoxal) arginine
+C1GFG5,Proline oxidation to pyroglutamic acid
+C1GCT8,Replacement of proton by lithium
+C1G0P0,Oxidation (M)
+C1GM00,Sulfation
+C1FYW9,Phosphorylation (STY);Acetylation (K);Dihydroxy;Carbamylation;Dehydration;Biotinylation
+C1G942,Guanidination
+C1GGT8,Arginine oxidation to glutamic semialdehyde
+C1GKW0,Oxidation (M)
+C1GB49,Pyro-glu from Q
+C1GKR7,Glycidamide adduct
+A0A0A0HT80,2-amino-3-oxo-butanoic_acid
+C1GCG8,Acetylation (Protein N-term);Deamidation (NQ);Methylation(KR)
+C1GM03,Methylation(others);Carbamidomethylation
+C1G712,Carboxylation (DKW)
+A0A0A0HRM2,Acetylation (N-term)
+C1GHE4,Deamidation (NQ);Biotinylation
+C1FZU0,Carbamidomethylation
+"C1G942,""Propionamide (K, X@N-term)"""
+A0A0A0HUJ5,Bromination
+C1G3C4,Sodium adduct
+C1GLI9,Dihydroxy
+C1FZ00,Oxidation (M)
+A0A0A0HT57,Carbamidomethylation;Methylation(KR)
+C1G6T3,Phosphorylation (STY);Acetylation (K)
+C1GG76,Acetylation (N-term);Methylation(KR)
+C1GMI6,Biotinylation;Methylation(KR)
+C1G5Y7,Carbamidomethylation
+C1GB04,2-amino-3-oxo-butanoic_acid
+C1G391,Michael addition with methylamine
+C1GA14,Carbamidomethylation
+C1GA42,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G2F3,Carbamidomethylation
+C1FZ00,Methylation(KR)
+C1GHN0,Phosphorylation (STY);Amidation
+C1FYW9,O-Ethylphosphorylation
+C1GGT8,Carboxyl modification with ethanolamine
+C1GBZ4,Carbamidomethylation;Methylation(KR)
+C1G942,Acetylation (K)
+C1GDJ1,Formylation;Deamidation (NQ)
+C1GI70,Deamidation (NQ)
+C1GLV1,Carbamidomethylation
+C1FYR6,Formation of five membered aromatic heterocycle
+C1G9C0,Beta-methylthiolation (ND)
+C1GLV8,Sulphone
+A0A0A0HT80,Sodium adduct
+C1G4D1,Oxidation (M)
+C1GM00,Hexose (NSY);Phosphorylation (STY)
+C1G0X4,Methylation(others)
+C1G989,Carbamylation;Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+C1G0D4,Pyro-glu from Q;Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+C1GA17,Dethiomethyl
+C1G064,Proline oxidation to pyroglutamic acid
+C1FYX3,Carbamidomethylation
+C1GDJ1,Deamidation (R)
+C1GLA2,Acetylation (Protein N-term);Carbamidomethylation
+C1G4D1,Methylation(KR)
+C1GIX7,Acetylation (K);Formylation
+A0A0A0HV09,Dehydration
+A0A0A0HUJ5,Ubiquitin
+C1GCX5,Pyro-glu from Q
+C1GEX7,Carbamidomethylation;Sulfation;Methylation(KR)
+C1GJS2,Deamidation (NQ);Methylation(KR)
+C1GIX7,Deamidation (NQ);Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GAM6,Carbamidomethylation
+C1FYM2,ISD (z+2)-series
+C1GB47,Dethiomethyl
+A0A0A0HS69,Proline oxidation to pyroglutamic acid
+C1G9Z7,Carbamidomethylation
+C1G9P8,Carboxylation (DKW);Acetylation (K)
+C1G4M5,Dehydration;Carbamidomethylation;Methylation(KR)
+A0A0A0HRG7,Diethylation;Carbamidomethylation
+C1G194,Methylation(KR)
+C1GL73,Carbamidomethylation
+A0A0A0HT22,Acetylation (N-term);Acetylation (K);Phosphorylation (STY)
+C1G5J0,Methylation(KR)
+C1GAH4,Deamidation (NQ)
+C1G065,Methylation(KR);Deamidation (NQ);Dehydration
+C1G2V2,Oxidation (M)
+C1G6F6,Acetylation (N-term)
+C1GBM4,Ammonia-loss (N)
+C1G0X4,Acetylation (Protein N-term);Methylation(KR);Dehydration
+C1GLV8,Sodium adduct;Methylation(KR)
+C1G0E5,Palmitoylation
+C1GLI9,Sulfation;Methylation(KR)
+C1GFG5,Deamidation (NQ);Sodium adduct
+C1GLX8,Methylation(KR);Sodium adduct
+C1G9P6,Carbamidomethylation
+A0A0A0HS42,Oxidation (M)
+C1GA17,2-amino-3-oxo-butanoic_acid
+C1FYL2,Carbamidomethylation
+C1GN78,Methylation(others)
+C1GHV2,Acetylation (Protein N-term);Phosphorylation (STY)
+C1G3N7,Carbamidomethylation
+C1GLX8,Sulfation
+C1G5F6,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1GII4,Oxidation (M);Acetylation (K)
+C1G8H6,Dehydration;Acetylation (K)
+A0A0A0HV62,Sulphone
+C1G1Y7,Oxidation (M)
+C1G1T5,Ubiquitin
+C1G5Y7,Deamidation (NQ)
+A0A0A0HWY2,Methylation(others)
+C1G2J3,Michael addition with methylamine
+C1GN52,Diethylation
+C1GJ85,Carbamidomethylation
+A0A0A0HWK8,Methylation(others)
+C1GA97,Oxidation (M)
+C1GLI9,Pyro-glu from Q
+A0A0A0HV62,Replacement of proton by lithium
+C1G391,Malonylation
+A0A0A0HUJ5,Methylation(KR);Carbamylation;Dehydration;Oxidation (M)
+C1GBZ4,Hexose (NSY)
+C1GLV1,Deamidation (NQ)
+C1G9U1,Oxidation (M)
+C1GA97,Methylation(KR);Dehydration
+C1GAF5,Carbamidomethylation;Dehydration;Dihydroxy
+C1GIX7,Carbamylation;Methylation(KR);Phosphorylation (STY)
+C1GMV8,Oxidation (HW)
+C1GA17,Sodium adduct;Acetylation (K);Methylation(KR)
+A0A0A0HV65,Carbamidomethylation
+C1G810,Methylation(others);Carbamidomethylation
+C1GFJ0,Carbamidomethylation
+C1G1G2,Formylation;Deamidation (NQ)
+C1G002,Replacement of proton by lithium
+C1FYR6,Replacement of proton with ammonium ion
+C1GMZ1,Dihydroxy;Methylation(KR)
+C1G0X3,Pyro-glu from Q
+C1G1C8,Carbamylation;Methylation(KR)
+C1GHV2,Phosphorylation (STY);Deamidation (NQ);Dehydration
+A0A0A0HYV6,Lysine oxidation to aminoadipic semialdehyde
+C1GE18,Carbamidomethylation
+C1G821,Proline oxidation to pyroglutamic acid
+A0A0A0HV62,Dehydration;Carbamidomethylation
+A0A0A0HRG7,Phosphorylation to pyridyl thiol
+C1GG76,Dehydration;Methylation(KR)
+C1G5V6,Acetylation (N-term);Deamidation (NQ);Acetylation (K);Oxidation (M)
+C1GL73,Deamidation (NQ)
+C1G9C0,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GMC5,Phosphorylation to amine thiol
+C1G9D7,Formylation;Deamidation (NQ)
+C1GII4,Dethiomethyl
+C1GG28,Oxidation (M)
+C1G6U5,Glycidamide adduct
+C1GLI9,Dehydration;Methylation(KR);Oxidation (M)
+C1G0D4,Michael addition with methylamine
+C1G1F2,Methylation(KR);Carbamidomethylation;Dimethylation(KR);Phosphorylation (STY);Dehydration
+C1GBT0,Sodium adduct
+C1FYX6,Amidation
+C1G0X0,Phosphorylation to pyridyl thiol
+C1G1T5,Methylation(KR);Sodium adduct;Phosphorylation (STY)
+C1G3Y8,Dehydration;Carbamidomethylation;Methylation(KR);Oxidation (M)
+C1G0X3,Carbamidomethylation
+C1GDA8,MDA adduct +54
+C1G248,Oxidation (M)
+C1FZI7,Amidation
+C1GMH8,Carbamidomethylation
+C1GMI6,Carboxylation (E)
+C1G989,Dehydration;Methylation(KR)
+C1GAG3,Proline oxidation to pyroglutamic acid
+C1G002,Dehydration
+C1GEN5,Dimethylation(KR)
+C1G002,Acetylation (Protein N-term);Oxidation (M)
+C1GCH9,Carbamidomethylation
+C1GN52,Methylation(KR)
+C1GLI2,Carboxylation (E)
+C1GLJ7,Carbamylation;Methylation(KR)
+C1G3V5,Oxidation (M)
+C1GAW6,Pyro-glu from E
+C1G5P1,Carbamidomethylation
+C1G6T3,Acetylation (N-term);Dehydration
+C1G7A3,Carbamidomethylation
+C1GDJ1,Phosphorylation (STY);Acetylation (K);Dimethylation(KR);Amidation;Methylation(KR);Carbamylation;Carbamidomethylation;Sodium adduct;Biotinylation
+C1GAM9,Nmethylmaleimide
+C1GLA5,2-amino-3-oxo-butanoic_acid
+C1GBM4,Proline oxidation to pyroglutamic acid
+C1GA17,Phosphorylation (STY);Methylation(KR);Carboxylation (DKW)
+C1G9P6,Acetylation (Protein N-term)
+C1GII4,2-amino-3-oxo-butanoic_acid
+C1G3T6,Oxidation (M);Carbamidomethylation;Acetylation (K);Phosphorylation (STY)
+C1G5V6,Sulfation
+C1FYR6,Proline oxidation to pyroglutamic acid
+C1GFG5,Dihydroxy
+C1G283,Methylation(others)
+C1G0X4,Carboxymethyl
+C1GEX7,Ethoxyformylation
+C1G3T6,Methylation(KR)
+A0A0A0HQC4,Formylation
+C1GHZ8,Pyro-glu from Q
+C1G6T3,Acetylation (K)
+A0A0A0HT80,Dimethylation(KR)
+C1GLM2,Carboxylation (DKW)
+C1GAG4,Phospho-guanosine
+C1G6T3,Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1G5M9,Oxidation (M)
+C1G9R9,Biotinylation
+C1GN52,Acetylation (K);Deamidation (NQ);Methylation(KR)
+C1GM00,Oxidation or Hydroxylation
+C1G6U5,Dehydration
+C1G3L4,Ubiquitin
+C1GAG4,Methylation(KR);Acetylation (K);Oxidation (M);Carbamidomethylation;Dehydration;Biotinylation
+C1G7L4,Formylation
+C1GLI9,Deamidation followed by a methylation
+C1GBT0,Phosphorylation (STY)
+C1G5M9,Methylation(KR)
+C1GD04,Acetylation (TSCYH)
+C1FYW9,2-amino-3-oxo-butanoic_acid
+C1GII4,Sodium adduct
+C1GG76,Carbamylation
+C1GE86,Oxidation (M)
+C1GIX7,3-methyl-2-pyridyl isocyanate
+C1GDK2,Acetylation (K)
+C1GIP8,Methylation(C-term)
+"C1GHV2,""Carboxymethyl (KW, X@N-term)"""
+C1GIX7,Methylation(KR);Deamidation (NQ);Carbamidomethylation;Phosphorylation (STY);Dihydroxy
+C1GCI0,Formylation;Methylation(KR)
+C1GCI0,Deamidation (NQ);Methylation(KR);Sodium adduct;Dehydration
+C1GDK2,Deamidation (NQ);Methylation(KR)
+C1GE52,2-amino-3-oxo-butanoic_acid
+C1GBX5,Oxidation (M)
+C1GHZ8,Carbamidomethylation
+C1GE86,Methylation(KR)
+C1G7F7,Carbamidomethylation
+C1G2J3,Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+C1GLV8,Dihydroxy;Acetylation (K)
+C1GAF5,Ubiquitin
+C1GM00,Nucleophilic addtion to cytopiloyne
+C1G0E3,Acetylation (N-term);Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1GJS2,Acetylation (N-term);Deamidation (NQ)
+C1FYR6,Sodium adduct;Methylation(KR)
+C1G9C0,Malonylation
+C1FZQ0,Oxidation (M)
+C1G3L4,Deamidation (NQ);Carbamidomethylation;Methylation(KR)
+C1G6T3,Acetylation (Protein N-term)
+C1GIX7,Dehydration;Methylation(KR)
+C1GKC9,Carboxylation (DKW);Deamidation (NQ);Phosphorylation (STY)
+C1GM00,Deamidation (R)
+C1GB79,Carbamidomethylation
+C1G064,Dihydroxy;Phosphorylation (STY)
+C1GL57,Pyro-glu from Q
+C1GAC4,Carbamidomethylation
+C1GIX7,Hexose (NSY);Phosphorylation (STY)
+C1G172,2-amino-3-oxo-butanoic_acid
+A0A0A0HUJ5,O-Diisopropylphosphorylation
+C1GF71,Acetylation (K)
+Protein List,Protein Ptm Contains:
+C1GAQ4,Oxidation (M)
+C1G3T9,4-sulfophenyl isothiocyanate
+C1GF71,Deamidation (NQ)
+C1FYW9,Sodium adduct;Acetylation (K)
+C1G064,Carbamylation;Acetylation (K)
+A0A0A0HS69,Dihydroxy
+C1G002,Carboxylation (DKW);Methylation(KR)
+C1G5J0,Amidation
+C1GAF5,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Sodium adduct
+C1GMC5,Biotinylation
+C1GE52,Sodium adduct
+C1GKC9,Phospho-propargylamine
+C1G5F6,Replacement of 2 protons by iron
+C1G3L4,Oxidation (M)
+C1GC82,Carbamidomethylation
+C1G479,Carbamidomethylation
+C1GDJ1,Ammonia-loss (N)
+C1G820,Oxidation (M)
+A0A0A0HVP8,Acetylation (N-term);Acetylation (K);Phosphorylation (STY)
+A0A0A0HT52,Oxidation (M)
+C1G7C1,Oxidation (M)
+C1GDJ1,Carboxylation (E)
+C1G4N0,Pyro-glu from Q
+C1G820,Methylation(KR)
+A0A0A0HV38,Biotinylation;Methylation(KR)
+C1GB65,Proline oxidation to pyroglutamic acid
+C1GGA8,Oxidation (M)
+C1G5F6,Deamidation (NQ);Carbamidomethylation;Methylation(KR);Amidation
+C1G065,Dethiomethyl;Carbamidomethylation
+C1GII4,Phosphorylation (STY);Carboxylation (DKW)
+C1G645,Carbamidomethylation
+C1G1T5,O-Diisopropylphosphorylation
+C1GDK2,Biotinylation
+C1G6U5,Carbamylation
+A0A0A0HVP8,Oxidation (M);Acetylation (K);Sodium adduct
+C1GHS5,Oxidation (M);Methylation(KR);Dihydroxy
+C1G5F6,Dimethylation(KR)
+C1G4P8,Pyro-glu from Q
+C1G4K3,Deamidation (NQ)
+C1GLM4,Acetylation (Protein N-term)
+C1G002,Sulphone;Methylation(KR)
+C1GDJ1,Oxidation (M);Methylation(KR);Phosphorylation (STY);Dehydration
+A0A0A0HVH2,2-amino-3-oxo-butanoic_acid
+C1FYW9,Methylation(KR);Acetylation (K)
+C1GKR7,Pyro-glu from Q;Methylation(KR)
+C1G0B0,Acetylation (Protein N-term)
+C1GBM3,Oxidation (M)
+C1G5H2,Carbamidomethylation
+C1G0E5,2-amino-3-oxo-butanoic_acid
+C1G8H6,Sulfation;Methylation(KR)
+C1GAG4,Dehydration;Carbamidomethylation
+C1GFA3,Ethylation
+C1GMZ1,Acetylation (K);Dimethylation(KR)
+C1GBE8,Carbamidomethylation
+C1G349,Hexose (NSY)
+C1FYX6,Phosphorylation (STY);Methylation(KR);Oxidation (M)
+C1FYJ9,Oxidation (M)
+C1G391,Acetylation (N-term)
+A0A0A0HUJ5,Dethiomethyl
+C1GE52,Phosphorylation (STY)
+C1G942,Glycidamide adduct
+C1GFG5,Acetylation (K);Formylation;Methylation(KR);Phosphorylation (STY)
+C1GLX8,Deamidation (R)
+C1G9D7,Methionine replacement by azido homoalanine
+C1GK66,Pyro-glu from Q
+C1G479,Deamidation (NQ)
+C1G8H6,HexNAcylation (N)
+C1GA13,Sodium adduct;Acetylation (K)
+C1G766,Carboxylation (DKW)
+C1G1F2,Amidation;Acetylation (K);Methylation(KR)
+C1GHJ0,Carbamylation;Carbamidomethylation;Deamidation (NQ)
+A0A0A0HS69,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1G1T5,Amidation
+C1G0E5,Sodium adduct
+C1G6E6,Methylation(KR)
+A0A0A0HWS3,Methylation(others)
+C1GA20,Methylation(others)
+Protein List,Protein Sample Area >= 0E0
+C1GC48,2-amino-3-oxo-butanoic_acid
+C1G092,Oxidation (M)
+C1G6F9,Acetylation (Protein N-term)
+C1GN52,Deamidation (R)
+A0A0A0HV62,Sulfation;Methylation(KR)
+C1GKC9,Methionine replacement by homopropargylglycine
+C1G9C0,Carbamidomethylation;Ammonia-loss (N);Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1G065,Sodium adduct
+C1GA13,Carbamylation;Acetylation (K)
+C1GKG3,Tryptophan oxidation to kynurenin
+C1GB47,N-Succinimidyl-2-morpholine acetate
+C1G1F2,Dethiomethyl
+C1G2V1,S-pyridylethylation
+A0A0A0HV62,Pyridylacetyl
+C1G2V1,Acetylation (K);Amidation
+C1GEX7,Methylation(others)
+C1G0D4,Oxidation (M);Acetylation (K);Methylation(KR);Oxidation (HW);Deamidation (NQ);Dihydroxy
+C1GMI6,Menadione quinone derivative
+C1GDN3,Carbamidomethylation
+C1GDL1,Pyro-glu from Q
+C1G9D5,Carbamidomethylation
+C1GAT8,Carbamidomethylation
+C1G4K1,Pyro-glu from Q
+C1G064,Phosphorylation to amine thiol
+C1FZ00,Oxidation (HW)
+C1FYX6,Carboxylation (DKW)
+C1G002,Sulfation;Deamidation (NQ);Methylation(KR)
+A0A0A0HT80,Sulfation
+A0A0A0HVP8,2-amino-3-oxo-butanoic_acid
+C1FZF8,Carbamidomethylation
+C1FYR6,Dihydroxy
+C1G1S4,Oxidation (M)
+C1G942,Dehydration;Methylation(KR)
+C1GLM2,Carbamidomethylation;Methylation(KR)
+C1GKC9,Methylation(others)
+C1G1D9,Carbamidomethylation
+C1GEN5,Oxidation (M)
+C1G064,Guanidination
+C1GDK2,3-methyl-2-pyridyl isocyanate
+C1G2J3,Methylation(KR);Dehydration
+C1GH49,Oxidation (M)
+C1G0D4,Carboxylation (DKW);Deamidation (NQ)
+C1GBJ2,Formylation
+C1GC74,Carbamidomethylation
+C1GEN5,Methylation(KR);Dehydration
+"C1G064,""Propionamide (K, X@N-term)"""
+C1GJS2,Dehydration;Methylation(KR)
+C1G391,Dethiomethyl
+C1G820,Acetylation (N-term)
+C1FZT8,Pyro-glu from Q
+C1G8E5,Oxidation (M)
+C1GAS0,Carbamidomethylation
+C1GKG3,Methylation(KR)
+C1G810,3-methyl-2-pyridyl isocyanate
+C1G989,2-amino-3-oxo-butanoic_acid
+C1GLV8,Acetylation (K)
+C1GLI9,Maleimide
+C1G5V6,Formylation;Deamidation (NQ);Methylation(KR)
+C1GB13,Dethiomethyl
+C1G6Y4,Pyro-glu from Q
+A0A0A0HWK8,Dehydration
+C1GA13,Methylation(others);Carbamidomethylation
+C1GMU5,Deamidation (R)
+C1GLV8,Ammonia-loss (Protein N-term)
+C1G9T0,Dehydration
+A0A0A0HT80,Hexose (NSY)
+C1G5D4,Carbamidomethylation
+C1GAM9,Alpha-amino adipic acid
+C1GIY1,Carbamidomethylation
+C1GKC9,Biotinylation
+C1GKL8,Carbamidomethylation
+C1GDT0,Oxidation (M);Carbamidomethylation
+A0A0A0HS69,Acetylation (K)
+C1G9A5,Oxidation (M)
+C1GCI0,Carbamidomethylation;Deamidation (NQ)
+C1G6Y4,Carbamidomethylation
+C1G8R5,Methylation(KR)
+C1GFG5,Biotinylation
+C1G172,Dimethylation(KR)
+C1G989,Sodium adduct
+C1GJX2,Pyro-glu from Q
+C1FYF6,Carbamidomethylation
+C1GLV8,Acetylation (Protein N-term)
+C1GHJ0,Pyro-glu from Q;Methylation(KR)
+C1G391,Methylation(KR);Sulfation;Deamidation (NQ)
+C1G1G2,Carbamidomethylation
+C1GAT8,Deamidation (NQ);Methylation(KR)
+C1G712,Formylation
+C1FYX6,Dehydration;Acetylation (K)
+C1G3T9,Acetylation (N-term);Phosphorylation (STY);Dehydration
+C1GLI9,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1G1Y1,Oxidation (M)
+C1G2F3,Acetylation (Protein N-term);Oxidation (M)
+C1GAY4,Pyro-glu from Q
+C1GMI6,Phosphorylation (STY);Deamidation (NQ);Acetylation (K)
+C1G5F6,Diethylation
+C1GDK2,Acetylation (N-term);Methylation(KR)
+C1G9X3,2-amino-3-oxo-butanoic_acid
+C1GBT0,Carbamidomethylation;Methylation(KR)
+C1GA13,Carbamidomethylation;Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1GF83,Oxidation (M)
+C1G2V1,Replacement of proton by potassium
+C1G255,Oxidation (M)
+C1FZI7,Formylation;Deamidation (NQ)
+C1G942,Carbamylation;Acetylation (K);Methylation(KR)
+C1G283,Sulphone
+C1G5F6,Sulfation
+"C1GCK9,""Propionamide (K, X@N-term)"""
+C1G0E5,Carboxylation (DKW)
+C1GCZ4,Carbamidomethylation;Oxidation (M)
+C1G3L4,Lysine oxidation to aminoadipic semialdehyde
+C1G3Y8,HexNAcylation (N)
+C1GA17,Oxidation (M);Phosphorylation (STY)
+C1FYT6,Carbamidomethylation
+C1G164,Carbamidomethylation
+C1GGR5,Carbamidomethylation
+C1G065,Carboxylation (DKW)
+A0A0A0HV62,Michael addition with methylamine
+C1GHS5,Proline oxidation to pyrrolidinone
+C1G9X3,Sodium adduct
+C1GHS5,2-amino-3-oxo-butanoic_acid
+C1G064,Biotinylation
+C1GBJ2,ISD (z+2)-series
+A0A0A0HT80,Acetylation (N-term);Acetylation (K);Methylation(KR);Dihydroxy;Deamidation (NQ);Phosphorylation (STY);Dehydration
+C1FZ57,Acetaldehyde +26
+C1G1M5,Carbamidomethylation
+"C1GAG4,""Propionamide (K, X@N-term)"""
+C1GCT8,Acetylation (Protein N-term);Deamidation (NQ);Dimethylation(KR);Methylation(KR)
+C1G6K0,Carbamidomethylation
+C1G002,Methylation(KR);Formylation
+A0A0A0HWY2,3-sulfanylpropanoyl
+C1GLU6,Michael addition with methylamine
+"C1G0E5,""Carboxymethyl (KW, X@N-term)"""
+C1G371,Methylation(others)
+C1G3H0,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G5V6,Acetylation (K);Methylation(KR)
+C1G411,2-amino-3-oxo-butanoic_acid
+C1GGQ1,Phosphorylation (STY)
+C1G1F2,Phosphorylation (STY);Methylation(KR);Amidation
+C1GM00,Biotinylation;Deamidation (NQ);Oxidation (M)
+C1FZ06,Carbamidomethylation
+C1G712,Methylation(others)
+C1G0X4,Dihydroxy
+C1FYT2,Oxidation (M)
+C1GAG4,Acetylation (K)
+C1G3T9,Methylation(others)
+C1G8D0,Carbamidomethylation
+C1FYR6,Propargylamine
+C1GAG4,Deamidation (NQ);Methylation(KR);Phosphorylation (STY);Dehydration
+A0A0A0HV62,Benzyl isothiocyanate
+C1GLA5,Pyro-glu from E
+C1G2J3,2-amino-3-oxo-butanoic_acid
+A0A0A0HUJ5,Carboxylation (DKW)
+C1GK99,Methylation(others);Carbamidomethylation
+C1GIP8,Deamidation (R)
+C1G0D4,Dethiomethyl
+"C1GFA3,""Propionamide (K, X@N-term)"""
+C1GB49,2-amino-3-oxo-butanoic_acid
+C1G371,Biotinylation
+C1G411,Sodium adduct
+A0A0A0HU84,Formylation;Deamidation (NQ);Methylation(KR)
+C1GEN5,O-Diisopropylphosphorylation
+C1GLV1,Carbamylation
+C1G0D4,Myristoylation;Methylation(KR)
+C1GH49,Acetylation (N-term)
+C1GAF5,2-amino-3-oxo-butanoic_acid
+C1G065,Pyro-glu from Q;Carbamidomethylation;Methylation(KR)
+C1GAG3,Deamidation (NQ);Methylation(KR);Dihydroxy;Phosphorylation (STY);Oxidation (M);Dehydration
+C1G9X9,Methylation(KR)
+C1GLX8,Ammonia-loss (N)
+C1FZ57,Formylation
+C1G1V9,Oxidation (M)
+C1GKR7,Deamidation (NQ);Methylation(KR)
+C1GLJ7,Methylation(others)
+C1GKW0,Carbamylation;Methylation(KR)
+C1G2J3,Sodium adduct
+C1G6E6,Lysine oxidation to aminoadipic semialdehyde
+A0A0A0HV09,Oxidation (M)
+C1G9X3,Phosphorylation (STY)
+C1GB47,Acetylation (TSCYH)
+C1FYW9,Pyro-glu from E
+C1G9P8,Methylation(others);Carbamidomethylation
+C1GM00,Proline oxidation to pyroglutamic acid
+C1GFA3,Deamidation (NQ);Methylation(KR);Dehydration
+C1GCK9,Biotinylation
+C1GFG5,Dehydration;Methylation(KR)
+C1G4N0,Propionaldehyde +40
+C1GLI2,Carboxylation (DKW);Acetylation (K);Methylation(KR)
+C1G9Z7,Carbamylation
+A0A0A0HV09,Methylation(KR);Dehydration
+C1FZB5,Oxidation (M)
+C1G1F2,Carboxylation (DKW)
+C1G9P8,S-Ethylcystine from Serine
+C1G1C8,Methylation(KR)
+C1G1T5,Carboxylation (DKW);Phosphorylation (STY)
+C1G9D7,Methylation(others)
+C1G9C0,2-amino-3-oxo-butanoic_acid
+A0A0A0HRG7,Acetylation (Protein N-term);Deamidation (NQ);Carbamidomethylation;Oxidation (M)
+A0A0A0HT80,Ethanolation (KR)
+C1GAF5,Sodium adduct
+C1GB65,Carbamidomethylation;Deamidation (NQ);Methylation(KR)
+C1G5F6,Acetylation (N-term);Carbamylation;Phosphorylation (STY);Oxidation (M);Formylation;Dehydration
+C1GCH7,Carbamidomethylation
+C1G3C4,Formylation;Phosphorylation (STY)
+C1GEN5,Deamidation (R)
+C1GCI0,Biotinylation
+C1GF71,Acetylation (Protein N-term);Acetylation (K)
+C1G0X4,Pyridylacetyl
+C1GEN5,Amidation
+C1GBM4,Acetylation (Protein N-term)
+C1G1T5,O-Isopropylmethylphosphonylation
+A0A0A0HV62,Ubiquitin
+C1GLA5,Hexose (NSY)
+C1GLA5,Carbamidomethylation;Ammonia-loss (N);Deamidation (NQ);Dehydration
+C1G6G2,Carbamidomethylation
+C1G3T6,Carboxylation (E)
+C1GE52,Sulfation
+C1G9C0,Sodium adduct
+C1G391,Carboxylation (DKW)
+"C1G0D4,""Propionamide (K, X@N-term)";"Carbamidomethylation"""
+C1FZ57,Methylation(others)
+C1FYE5,Ammonia-loss (N)
+A0A0A0HS69,Pyridoxal phosphate
+C1GEN5,Lysine oxidation to aminoadipic semialdehyde
+C1GN52,Iodination
+C1GLB8,Carbamidomethylation
+C1G5P0,Carbamidomethylation
+C1G9X3,Carboxylation (DKW)
+C1G2J3,Phosphorylation (STY);Amidation
+C1GHJ0,Phosphorylation (STY);Deamidation (NQ);Methylation(KR);Dehydration
+C1GDE1,Oxidation (M)
+"C1G7L4,""Naphthalene-2,3-dicarboxaldehyde"""
+A0A0A0HS69,Dehydration;Methylation(KR)
+C1G3L4,Phosphorylation (STY);Methylation(KR)
+"C1GMV8,""Propionamide (K, X@N-term)"""
+C1G712,Formation of five membered aromatic heterocycle
+C1G3P9,Carbamidomethylation;Oxidation (M)
+C1GDE1,Methylation(KR)
+C1GLV8,Maleimide
+C1G1P0,Carbamidomethylation
+C1FYW9,Hexose (NSY)
+A0A0A0HUJ5,Replacement of 2 protons by nickel
+C1GDJ1,Tyrosine oxidation to 2-aminotyrosine
+C1GMU5,Ammonia-loss (N)
+C1G989,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carbamylation;Phosphorylation (STY);Oxidation (M);Dihydroxy
+C1FYR6,Biotinylation
+C1GMZ1,Dehydration;Deamidation (NQ)
+C1G6T3,Carbamylation
+C1GBN3,Dehydration;Methylation(KR)
+C1GMI6,Acetylation (K)
+C1G1T5,Dehydration;Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1GE52,Hexose (NSY)
+C1G0X4,Propargylamine
+C1GH68,Carbamidomethylation
+C1G5V6,Ammonia-loss (N)
+C1FYK9,Formylation
+A0A0A0HRG7,Carbamidomethylation
+A0A0A0HT22,Dehydration;Acetylation (K)
+C1GM03,Glyoxal-derived hydroimiadazolone
+C1GA17,ADP Ribose addition
+C1GAG4,Acetylation (N-term);Acetylation (K);Methylation(KR);Deamidation (NQ);Carbamylation;Carbamidomethylation
+C1GMV8,Deamidation (NQ);Methylation(KR)
+C1G5V6,Carboxylation (E)
+C1GLM2,Formylation
+C1GEM8,Deamidation (NQ);Methylation(KR)
+C1GB65,Acetylation (K)
+C1GG76,Methylation(KR)
+C1GA17,Ethanolation (KR)
+C1G2S7,Carbamidomethylation
+C1GAG4,Carboxyethyl;Carbamidomethylation
+C1GDK2,Carbamylation
+C1GGT8,2-amino-3-oxo-butanoic_acid
+A0A0A0HWK8,Pyro-glu from Q
+C1GFM6,Replacement of proton by silver
+C1GBC4,Oxidation (M)
+C1GHJ0,O-Diethylphosphorylation
+C1GLU6,Methylation(KR)
+A0A0A0HWS3,Dehydration
+C1G631,2-amino-3-oxo-butanoic_acid
+C1GLI9,Sodium adduct;Phosphorylation (STY)
+C1G4R7,Acetylation (Protein N-term)
+C1GB47,Ethanolation (KR)
+C1GLA5,Acetylation (N-term);Phosphorylation (STY);Dehydration
+C1G002,Oxidation (M)
+A0A0A0HUI8,Carbamidomethylation
+C1GDJ1,Carbamidomethylation;Hexose (NSY);Phosphorylation (STY);Dehydration
+C1G712,Ammonia-loss (N)
+C1GF71,Carbamylation
+C1G9X9,O-Diisopropylphosphorylation
+C1GAM9,Dehydration;Methylation(KR)
+C1GHV2,Oxidation (M);Deamidation (NQ);Methylation(KR)
+C1GEU2,Acetylation (N-term);Dihydroxy
+C1G3P2,Carbamidomethylation
+C1FZL2,Oxidation (M)
+C1G0X4,Acetylation (K)
+C1GM00,Ethylation
+C1G3L4,Phosphopantetheine
+C1G1C8,Acetylation (N-term)
+C1GFM6,Pyro-glu from Q
+C1GA13,Membrane protein extraction
+A0A0A0HWK8,Deamidation (NQ);Acetylation (K);Methylation(KR)
+C1GLM2,Methylation(others)
+C1GMV8,Phenethyl isothiocyanate
+A0A0A0HWJ2,Carbamidomethylation
+C1G0X4,Propionamide
+C1G3C4,Phosphorylation (STY);Methylation(KR);Sodium adduct
+C1GDJ1,Guanidination
+C1G5F6,Amidation
+C1G6U5,Oxidation (M)
+C1GEM8,Biotinylation
+C1G0F2,Methylation(KR)
+C1GLI2,Biotinylation
+C1GAF5,Phosphopantetheine
+A0A0A0HRG7,Deamidation (NQ)
+C1GBT0,Formylation;Methylation(KR)
+A0A0A0HVP8,Carbamidomethylation;Methylation(KR)
+C1G413,Oxidation (M)
+C1GHJ0,Michael addition with methylamine;Carbamidomethylation
+"C1GDJ1,""Propionamide (K, X@N-term)"""
+C1G942,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G9C0,Carboxylation (DKW)
+C1G4M5,Oxidation (M)
+C1GJJ9,Oxidation (M)
+A0A0A0HUK5,Oxidation (M)
+C1GBG1,Ubiquitin
+C1G6U1,Oxidation (M)
+C1GBJ2,Proline oxidation to pyroglutamic acid
+C1G0E5,Methionine replacement by azido homoalanine
+C1G5F6,Lysine oxidation to aminoadipic semialdehyde
+C1GIN4,Oxidation (M)
+C1G6M3,Methylphosphonylation
+A0A0A0HV89,Methylation(others)
+C1G283,Pyridylacetyl
+C1GDJ1,Acetylation (K);Phosphorylation (STY)
+C1FYJ9,Carboxylation (DKW)
+C1G5V6,Proline oxidation to pyroglutamic acid
+C1G766,Ethanolation (KR)
+C1GMZ1,2-amino-3-oxo-butanoic_acid
+C1GEN5,Oxidation (HW)
+C1GB47,Methylation(others);Carbamidomethylation
+C1FYR6,Dehydration;Methylation(KR)
+C1GFL2,Carbamidomethylation
+C1GHB9,Oxidation (M)
+C1FZ57,Carboxymethyl
+C1G6F7,Sulfation
+C1GHJ0,Oxidation (M);Carbamidomethylation
+C1GA17,Formylation;Acetylation (K);Phosphorylation (STY)
+C1FZI7,Carboxylation (DKW);Acetylation (K)
+A0A0A0HWQ0,Oxidation (M);Carbamidomethylation
+C1GG77,Carbamidomethylation;Methylation(others)
+C1GAF5,Acetylation (N-term);Methylation(KR);Phosphorylation (STY);Dihydroxy
+C1GHV2,Phosphorylation to pyridyl thiol
+C1GAW6,Proline oxidation to pyroglutamic acid
+C1GHJ0,Methylation(KR)
+A0A0A0HT22,Carboxyethyl
+C1G1M6,Oxidation (M)
+C1GA17,ISD (z+2)-series
+C1G0P4,Deamidation (NQ)
+C1FYE6,Dehydration
+C1GMZ9,Oxidation (M)
+C1GLA5,Formylation
+C1GDJ1,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+A0A0A0HWQ9,Carbamidomethylation;Oxidation (M)
+C1GA20,Arginine oxidation to glutamic semialdehyde
+C1G421,Pyro-glu from Q;Carbamidomethylation
+C1G391,Carbamidomethylation;Methylation(KR);Octanoyl;Methylation(others);Dimethylation(KR)
+C1G712,Proline oxidation to pyroglutamic acid
+C1FYR6,Maleimide
+C1G989,Lipoyl
+C1G989,Sulfation
+A0A0A0HUJ5,Methionine replacement by azido homoalanine
+C1GIX7,Methylation(C-term)
+A0A0A0HS69,Acetylation (Protein N-term);Oxidation (M)
+C1GHN2,Oxidation (M)
+C1G942,4-hydroxynonenal (HNE)
+C1GJB5,Carbamidomethylation
+C1GA14,Michael addition with methylamine
+C1G3T9,Replacement of proton by lithium
+C1GEJ7,Oxidation (M)
+A0A0A0HVP8,Methionine replacement by azido homoalanine
+C1G3L4,Carbamylation;Methylation(KR)
+C1G2V1,Carbamylation;Methylation(KR)
+C1FZK1,Carbamidomethylation
+C1GFG5,Carbamylation
+C1GCK9,Replacement of proton by lithium
+C1GDJ1,Biotinylation
+C1G6F6,Pyro-glu from Q;Acetylation (K)
+C1GGT8,Carboxylation (DKW)
+C1G9X3,Diethylation
+C1G371,Dehydration;Deamidation (NQ)
+A0A0A0HV38,Carbamidomethylation
+C1FYW9,Formylation
+C1GA20,Dihydroxy
+C1G9F5,Deamidation (NQ);Sodium adduct
+C1GLA5,Lysine oxidation to aminoadipic semialdehyde
+C1G2V1,Biotin polyethyleneoxide amine
+C1GBZ4,Dihydroxy
+C1G0P4,Addition of DFDNB crosslinker
+C1G4P8,Carbamylation
+A0A0A0HUJ5,Acetylation (TSCYH)
+C1GML4,Acetylation (Protein N-term)
+C1GCG8,2-amino-3-oxo-butanoic_acid
+C1G4N0,Sodium adduct
+C1G7L4,Pyro-glu from Q
+C1G1F2,Methionine replacement by azido homoalanine
+A0A0A0HWK8,4-hydroxynonenal (HNE)
+C1GFL2,Deamidation (NQ)
+C1GLI9,Dimethylation(KR)
+A0A0A0HT80,Ammonia-loss (N)
+C1GM00,Formylation;Acetylation (K)
+C1GKR7,2-amino-3-oxo-butanoic_acid
+C1GAM9,MDA adduct +54
+C1GG76,Amidation
+C1G0E5,Phospho-propargylamine
+A0A0A0HYV6,Methylation(others)
+C1G9P8,Replacement of proton by lithium
+C1G411,Carbamidomethylation;Methylation(KR)
+C1GCK9,Dehydration;Phosphorylation (STY)
+C1GA21,Carbamidomethylation
+C1GFA3,Glycidamide adduct
+C1GHS5,Diethylation
+C1G9D7,Replacement of proton by lithium
+C1G3M0,Carbamidomethylation
+C1FYN4,Oxidation (M)
+A0A0A0HU84,Carbamidomethylation
+C1G496,Oxidation (M)
+C1G233,Pyro-glu from Q
+C1G9X5,Carbamidomethylation
+C1FYJ7,2-amino-3-oxo-butanoic_acid
+C1GA20,Aminoethylbenzenesulfonylation
+C1GBT0,Nethylmaleimidehydrolysis
+C1G5V6,Biotinylation;Phosphorylation (STY)
+C1G0E3,Methylation(KR)
+C1G002,Amidation
+C1G8H6,2-amino-3-oxo-butanoic_acid
+C1GG77,Acetylation (N-term);Biotinylation
+C1G1F2,Acetylation (TSCYH)
+C1G5F6,Crotonaldehyde
+A0A0A0HV62,Dethiomethyl
+C1GG76,Dethiomethyl
+A0A0A0HS69,Carbamylation
+C1G810,Dimethylation(KR)
+C1GJB5,Deamidation (NQ);Methylation(KR)
+A0A0A0HV62,Acetylation (K);Carbamidomethylation;Deamidation (NQ)
+C1G1G2,Dehydration
+C1GE52,Oxidation (M);Deamidation (NQ)
+C1G570,Oxidation (M)
+C1GL73,Pyro-glu from Q;Carbamidomethylation
+C1GA20,BisANS
+C1G351,Carbamidomethylation
+C1G0X4,Dehydration;Methylation(KR)
+C1FYX6,Methylation(others)
+C1GCF0,Oxidation (M)
+C1G570,Methylation(KR)
+C1GN83,Oxidation (M)
+C1GI70,Oxidation (M)
+C1GA13,Ethylation;Carbamidomethylation
+C1FZI7,Methylation(others)
+C1FZF8,Carbamylation
+C1GH63,Oxidation (M)
+C1GBU2,Carbamidomethylation
+C1G0I9,Oxidation (M);Carbamidomethylation
+C1GDR7,Methylation(others)
+C1GAG3,Dehydration
+C1GN83,Methylation(KR)
+C1GA17,Carboxymethyl
+C1G3T9,Hexose (NSY);Methylation(KR)
+C1G8H6,Sodium adduct
+C1G411,Reduced 4-Hydroxynonenal
+C1GCT8,Phosphorylation (STY)
+C1G6T3,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GH63,Methylation(KR)
+C1GLI9,Biotinylation;Acetylation (K)
+A0A0A0HS69,Methylation(KR);Deamidation (NQ);Dihydroxy
+C1GDR7,S-Ethylcystine from Serine
+C1G391,Acetylation (TSCYH)
+A0A0A0HWS3,Pyro-glu from Q
+C1GEE2,Carbamidomethylation
+C1FYW9,Acetylation (K);Methylation(KR)
+C1GIX7,Oxidation (M)
+A0A0A0HV62,2-amino-3-oxo-butanoic_acid
+C1GB49,Sulfation
+C1G0D4,Michael addition of BHT quinone methide
+C1G6U5,Amidation
+C1G3V2,Pyro-glu from Q
+C1G0E5,Formylation
+C1GDK2,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GA17,Carboxylation (E)
+C1GFM6,Ubiquitin
+C1G411,Hexose (NSY)
+C1G653,Carbamidomethylation
+C1GDK2,Michael addition with methylamine
+C1GAH4,Oxidation (M)
+C1G5F6,Ammonia-loss (N)
+C1G6U8,Carbamidomethylation
+C1GEN5,N-Succinimidyl-2-morpholine acetate
+A0A0A0HU84,Acetylation (K)
+C1GBJ2,Dihydroxy;Methylation(KR)
+C1GEX7,Pyro-glu from Q;Oxidation (M)
+C1GN78,Dehydration;Methylation(KR)
+C1G4D1,Deamidation (NQ)
+C1G0D4,Diethylation
+C1GMI6,Carbamylation;Deamidation (NQ)
+C1GAM9,2-amino-3-oxo-butanoic_acid
+C1G810,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GM00,Acetylation (K);Phosphorylation (STY)
+C1FZT8,2-amino-3-oxo-butanoic_acid
+C1GM00,Deamidation (NQ);Hexose (NSY);Carbamidomethylation;Methylation(KR)
+A0A0A0HV62,Sodium adduct;Deamidation (NQ);Acetylation (K)
+A0A0A0HT80,Proline oxidation to pyroglutamic acid
+C1GGA8,Carbamidomethylation;Oxidation (M)
+C1G9M3,Carbamidomethylation
+C1GLU1,Carbamidomethylation
+C1G9X3,Acetylation (N-term);Phosphorylation (STY)
+C1GB65,Carbamylation;Deamidation (NQ)
+C1GIR0,Carbamidomethylation;Oxidation (M)
+C1G0D4,Sulfation
+A0A0A0HUJ5,N-Succinimidyl-2-morpholine acetate;Carbamidomethylation
+C1GKC9,Pyro-glu from Q
+C1GBT4,Pyro-glu from Q;Deamidation (NQ)
+C1G4M5,Lysine oxidation to aminoadipic semialdehyde
+C1GCI0,Carbamylation
+C1GA14,Oxidation (M)
+C1G2F3,Oxidation (M)
+C1G159,Carbamidomethylation
+C1GBT0,Amidation;Acetylation (K)
+C1GHJ0,Amidation
+C1GAF5,Hexose (NSY)
+C1G9P8,3-sulfanylpropanoyl
+C1GCI0,Carboxylation (DKW);Methylation(KR)
+C1GLV1,Oxidation (M)
+C1GBT0,Oxidation (M);Dehydration
+C1G371,Carboxyl modification with ethanolamine
+A0A0A0HUJ5,Formylation
+C1GAM9,Sodium adduct
+C1G3T6,glycosylphosphatidylinositol
+C1G3Y8,Dethiomethyl
+C1G1M5,Myristoylation;Carbamidomethylation
+C1FZT8,Sodium adduct
+C1G479,Phosphorylation (STY);Dimethylation(KR)
+C1G0E5,Methylation(others)
+C1GFA3,Methylation(KR);Amidation;Dehydration
+C1GBT4,Carbamidomethylation;Deamidation (NQ);Dehydration
+C1G5V6,Dimethylation(KR);Oxidation (M)
+C1FYX3,Oxidation (M)
+C1G283,Acetylation (Protein N-term);Deamidation (NQ)
+C1GGQ3,Oxidation (M);Carbamidomethylation
+"C1GB65,""2,5-dimethypyrrole"""
+C1G532,2-amino-3-oxo-butanoic_acid
+C1GLM2,Proline oxidation to pyroglutamic acid
+C1G1R3,Oxidation (M);Carbamidomethylation
+C1GEX3,Ethylation
+C1GAM6,Oxidation (M)
+A0A0A0HVP8,Formylation
+C1G5J0,Methylation(others)
+C1G065,Methylation(others);Carbamidomethylation
+C1G9Z7,Oxidation (M)
+C1G3Y8,Sulfation;Deamidation (NQ)
+"C1GCT8,""Carboxymethyl (KW, X@N-term)"""
+C1G1F2,Oxidation or Hydroxylation
+C1GBM4,Carbamylation;Methylation(KR)
+C1GM00,Ethyl amino
+C1GBU2,Acetylation (Protein N-term)
+C1GEN5,Tryptophan oxidation to oxolactone
+C1GL73,Oxidation (M)
+C1GK99,Dihydroxy;Methylation(KR)
+C1G0T3,Oxidation (M);Carbamidomethylation
+C1GEM8,Dehydration
+"C1G1L3,""Propionamide (K, X@N-term)"""
+C1GLI2,Dehydration
+C1GDI5,Carbamidomethylation
+C1GBZ4,Acetylation (K)
+C1GKM7,Carbamidomethylation
+C1G3Y8,2-amino-3-oxo-butanoic_acid
+C1GAG3,Arginine oxidation to glutamic semialdehyde
+C1GE59,Acetylation (N-term)
+C1G989,Formylation;Carbamidomethylation
+C1G371,Aminoethylbenzenesulfonylation
+C1FYE5,Carbamidomethylation;Ammonia-loss (N)
+C1GA17,Proline oxidation to pyroglutamic acid
+C1G3N7,Oxidation (M)
+C1GA20,Deamidation followed by a methylation
+C1FYL2,Methylation(KR)
+A0A0A0HUJ5,Methylation(others)
+C1G8H6,Carboxylation (DKW)
+C1GM00,Replacement of proton by potassium
+C1GIJ8,Oxidation (M)
+C1G5F6,Proline oxidation to pyroglutamic acid
+C1G9P8,Dihydroxy
+C1G3N7,Methylation(KR)
+"C1GN52,""Propionamide (K, X@N-term)"""
+C1G2I2,Pyro-glu from Q
+C1GB47,Proline oxidation to pyroglutamic acid
+C1GGT8,Sulfation
+C1G3Y8,Sodium adduct
+C1G9D7,Dihydroxy;Methylation(KR)
+C1GBJ2,Carbamidomethylation;Oxidation (M)
+A0A0A0HVP8,Methylation(others)
+C1G9F5,Carbamidomethylation
+A0A0A0HTQ5,Methylation(others)
+C1GMU5,Carbamidomethylation
+C1GLV8,Dimethylation(KR)
+C1G5X0,Methylation(others)
+C1G0E3,Amidation
+C1GN52,Deamidation (NQ);Methylation(KR)
+C1G989,Carbamidomethylation;Ammonia-loss (N);Dimethylation(KR);Phosphorylation (STY);Dehydration
+C1G5V6,Carbamidomethylation;Methylation(KR);Phosphorylation (STY);Dihydroxy
+C1GKC9,Michael addition with methylamine
+C1G9X3,Formylation;Acetylation (K)
+C1FYJ7,Dimethylation(KR)
+C1G647,Deamidation (NQ)
+C1G3T9,Aminoethylcysteine
+C1G1F2,Methylation(others)
+C1G712,Pyro-glu from Q;Deamidation (NQ)
+A0A0A0HS69,Dimethylation(KR)
+C1G1T5,Methylation(others)
+C1G6T3,Methylation(KR);Oxidation (HW)
+C1GAG4,Oxidation (M);Carbamidomethylation
+C1GN68,Carbamidomethylation
+C1G3T9,Pyro-glu from Q;Deamidation (NQ)
+C1G3T6,Methionine replacement by homopropargylglycine
+A0A0A0HVP8,Acetylation (Protein N-term);Methylation(KR)
+A0A0A0HU09,Carbamidomethylation;Oxidation (M)
+C1GJN9,Carbamidomethylation;Oxidation (M)
+C1GI70,Amidation
+C1G248,Methylation(others)
+C1GBN1,Acetylation (Protein N-term)
+C1GA71,Carbamidomethylation
+C1GLX8,Biotinylation
+C1GLX8,Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+C1GB47,Sulfonation of N-terminus;Carbamidomethylation
+C1G411,Benzoyl
+C1G391,Methylation(others)
+C1G4K1,Dimethylation(KR)
+C1G411,Formylation;Phosphorylation (STY)
+C1G3Y8,Phosphorylation (STY);Carboxylation (DKW)
+C1G5P1,Oxidation (M)
+A0A0A0HV62,Dimethylation(KR)
+C1GEX6,Carbamidomethylation
+C1G7A3,Oxidation (M)
+C1GEN5,Dihydroxy methylglyoxal adduct
+C1G3C4,Dihydroxy
+C1GF71,Methylation(KR)
+A0A0A0HV62,Carboxylation (E);Phosphorylation (STY)
+C1G5P1,Methylation(KR)
+C1GB27,Carbamidomethylation
+C1GBJ2,Deamidation (NQ)
+C1G942,Dethiomethyl;Carbamidomethylation
+C1GAG3,Dihydroxy;Acetylation (K)
+C1G3Y8,Methylglyoxal-derived hydroimidazolone
+C1G064,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G2J3,Formylation
+C1GMU5,Deamidation (NQ);Methylation(KR);Phosphorylation (STY)
+C1G7B3,Carbamidomethylation
+C1G0E5,Carboxymethyl
+C1GIX7,Lysine oxidation to aminoadipic semialdehyde
+C1GMZ1,Sulfation
+C1GLM4,Oxidation (M)
+C1GM03,Sodium adduct
+A0A0A0HUJ5,Acetylation (Protein N-term);Acetylation (K);Sodium adduct;Phosphorylation (STY)
+C1G9D7,Pyro-glu from Q
+C1G0X4,2-amino-3-oxo-butanoic_acid
+C1GKL8,Dimethylation(KR)
+A0A0A0HS69,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GC92,Deamidation (NQ)
+C1G0B0,Oxidation (M)
+C1FZT8,Dimethylation(KR)
+C1GL73,Acetylation (N-term)
+C1G9C0,Ethanolation (KR)
+C1G0E5,Ammonia-loss (N)
+C1G349,Carbamidomethylation;Methylation(KR)
+C1G0D4,Ethanolation (KR)
+C1G0B0,Methylation(KR)
+A0A0A0HT88,Carbamidomethylation
+C1GAF5,Formylation
+A0A0A0HWK8,Dethiomethyl
+C1G9U8,2-amino-3-oxo-butanoic_acid
+C1G3U9,Carbamidomethylation
+C1GAW6,Deamidation (NQ)
+C1G2P3,Carbamidomethylation
+C1G6T3,Dehydration;Phosphorylation (STY)
+C1G4K3,Methylation(KR)
+C1GDK4,2-amino-3-oxo-butanoic_acid
+C1G9P8,Propargylamine
+C1G712,Acetylation (K)
+C1G1M0,Oxidation (M)
+C1G5F6,Ethylation
+C1GLJ3,Carbamidomethylation
+C1GB79,Oxidation (M)
+C1G0D4,Benzoyl
+C1GAC4,Oxidation (M)
+C1G9C0,Formylation;Phosphorylation (STY)
+C1GJS2,2-amino-3-oxo-butanoic_acid
+C1GK99,Heme
+C1G0D4,Formylation
+C1GBG9,Oxidation (M);Carbamidomethylation
+C1G1M0,Methylation(KR)
+C1GCT8,Sulfation
+C1GB79,Methylation(KR)
+C1G172,Proline oxidation to pyroglutamic acid
+C1GK99,Acetylation (K)
+C1G3L4,Methylation(others)
+C1GHS5,ISD (z+2)-series
+A0A0A0HWY2,2-amino-3-oxo-butanoic_acid
+C1G820,Methylation(others)
+C1GCK9,Amidination of lysines or N-terminal amines with methyl acetimidate
+A0A0A0HVZ4,Carbamidomethylation
+C1GHS5,Acetylation (Protein N-term);Methylation(KR)
+A0A0A0HWK8,2-amino-3-oxo-butanoic_acid
+A0A0A0HT22,Dimethylation(KR);Phosphorylation (STY)
+C1G479,Oxidation (M)
+C1GDA8,Proline oxidation to pyroglutamic acid
+C1GB27,Deamidation (NQ)
+C1G1T5,Sulfation;Phosphorylation (STY)
+A0A0A0HS69,O-Diethylphosphorylation
+C1G2V1,Oxidation to nitro
+C1G3C4,Pyro-glu from Q;Deamidation (NQ);Methylation(KR)
+C1GAX4,Carbamidomethylation
+C1GA10,Dimethylation(KR);Oxidation (M)
+C1G3Y8,Dimethylation(KR)
+C1FYX7,Oxidation (M)
+C1GEX7,Dehydration;Methylation(KR)
+C1GK99,Acetylation (Protein N-term)
+C1G5K1,Carbamidomethylation
+C1GA17,Dihydroxy;Phosphorylation (STY)
+C1GK98,Methylation(others)
+C1GCJ6,Carbamidomethylation
+C1G4T5,Carbamidomethylation
+C1GB27,Acetylation (Protein N-term)
+C1G0E3,Phosphorylation (STY)
+C1G1F2,Carboxymethyl
+A0A0A0HWK8,Sodium adduct
+C1GN84,Pyro-glu from Q
+C1FZL1,Lysine oxidation to aminoadipic semialdehyde
+C1G3C4,Carbamidomethylation
+C1GCI0,Replacement of proton by copper
+C1GM97,Pyro-glu from Q
+C1GG81,Oxidation (M)
+C1G9C0,Methylation(others)
+C1GDK2,Acetylation (Protein N-term);Carbamidomethylation;Methylation(KR)
+C1G810,3-Sulfobenzoic succinimidyl ester
+C1G064,Ubiquitin
+C1GLI9,Formylation;Methylation(KR)
+C1G989,Ammonia-loss (N)
+C1GA81,2-amino-3-oxo-butanoic_acid
+C1GLI2,Pyro-glu from Q
+C1GML7,Glycidamide adduct
+C1GLI2,HexNAcylation (N)
+C1GBE8,Oxidation (M)
+C1GBG1,Dimethylation(KR)
+A0A0A0HV62,Pyro-glu from E
+C1G4P8,Oxidation (M)
+C1FYJ9,Methylation(others)
+C1GI20,2-amino-3-oxo-butanoic_acid
+A0A0A0HV62,Michael addition of BHT quinone methide
+A0A0A0HT88,Acetylation (Protein N-term)
+A0A0A0HT80,Deamidation (NQ);Oxidation (HW);Phosphorylation (STY)
+C1GFA3,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G0E3,Amidination of lysines or N-terminal amines with methyl acetimidate;Carbamidomethylation
+C1GBM4,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G6T3,Deamidation (R)
+C1FYW7,Oxidation (M);Biotinylation
+C1G0N2,Carbamidomethylation;Formylation
+C1FZ57,Acetylation (K);Methylation(KR)
+C1G6T3,Amidation
+C1G6E6,Methylation(others)
+"C1GEN5,""Propionamide (K, X@N-term)"""
+C1GB04,Carbamidomethylation
+C1G0D4,ISD (z+2)-series
+C1GFT4,Oxidation (M)
+C1GLM2,Pyro-glu from Q
+A0A0A0HV09,Dihydroxy methylglyoxal adduct
+C1GLM2,Hypusine
+C1GCK9,Malonylation
+C1GF70,Methylation(KR)
+C1G8H6,Hexose (NSY)
+A0A0A0HWY2,Phosphorylation (STY);Methylation(KR)
+C1FYK9,Carbamidomethylation
+C1GB47,Oxidation (M);Biotinylation
+C1G452,Carbamidomethylation
+C1GN02,Carbamidomethylation
+C1G810,Amidation
+C1GKG3,Deamidation (NQ)
+C1G4K3,Acetylation (N-term)
+C1G9P1,Carbamidomethylation
+"A0A0A0HT80,""Propionamide (K, X@N-term)"""
+A0A0A0HV89,Pyro-glu from Q
+C1G9X3,Oxidation (M);Dehydration
+C1G0E3,O-Isopropylmethylphosphonylation
+C1GAT8,Oxidation (M)
+A0A0A0HUJ5,Replacement of proton by lithium
+C1G3L4,Sulfation;Phosphorylation (STY)
+C1GBC4,Ethylation
+C1G283,Sodium adduct;Methylation(KR)
+C1GAT8,Methylation(KR);Dehydration
+C1G6M3,Pyro-glu from Q
+C1G810,Lysine oxidation to aminoadipic semialdehyde
+C1G942,Carboxylation (DKW)
+C1GEN5,Methylation(others)
+C1GII4,Dihydroxy
+A0A0A0HT80,Acetylation (K);Phosphorylation (STY)
+A0A0A0HVP8,Sulphone
+C1GA62,Carbamidomethylation
+C1GGI0,Deamidation (NQ)
+C1GHD6,Carbamidomethylation
+A0A0A0HVY3,Carbamidomethylation
+C1G3D9,Biotinylation;Acetylation (K)
+C1GHZ3,Formylation
+C1GLA5,Carbamylation;Acetylation (K)
+A0A0A0HV62,Hexose (NSY)
+C1GA17,Carbamidomethylation
+C1G0X4,Dimethylation(KR)
+C1G3C4,Acetylation (Protein N-term);Oxidation (M)
+C1G1D9,Methylation(KR)
+C1GFR7,Pyro-glu from Q;Carbamidomethylation
+C1GF39,Carbamidomethylation
+C1GG76,Methionine replacement by azido homoalanine
+C1G9X3,Replacement of proton with ammonium ion
+"C1G065,""Naphthalene-2,3-dicarboxaldehyde"""
+C1GB47,Carbamidomethylation;Phosphorylation (STY);Amidation;Methylation(others)
+C1GMV8,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G3T9,Pyridoxal phosphate
+C1GEM8,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GE65,Carbamidomethylation
+C1GLA6,2-amino-3-oxo-butanoic_acid
+C1GE03,Carbamidomethylation
+C1GHV2,Acetylation (K);Carbamylation
+C1GAM9,Hexose (NSY)
+C1FYW9,Dihydroxy
+C1GEN5,Biotinylation
+C1GB47,HexNAcylation (N);Deamidation (NQ)
+C1FYX6,Dihydroxy
+C1FZT8,Hexose (NSY)
+C1G1T5,Replacement of proton by lithium
+C1G3L4,Formylation;Carbamidomethylation;Phosphorylation (STY)
+C1G002,Methionine replacement by azido homoalanine
+C1GHE4,2-amino-3-oxo-butanoic_acid
+C1G3C4,Carbamylation;Carbamidomethylation;Methylation(KR);Phosphorylation (STY)
+C1FYW9,Carbamylation;Acetylation (K)
+C1G283,Dimethylation(KR);Methylation(KR)
+C1G9D6,Carbamidomethylation
+C1G620,Carbamidomethylation
+C1GBZ4,Ethylation;Carbamidomethylation
+C1G5J0,Hexose (NSY);Methylation(KR)
+C1GMZ1,Deamidation (R)
+C1G3T6,Carbamylation;Deamidation (NQ)
+C1G821,Oxidation (M)
+A0A0A0HT22,Dethiomethyl
+C1G3T6,Dehydration (C@N-term)
+C1GF88,Carbamidomethylation
+C1GMV8,Benzyl isothiocyanate
+C1G391,Proline oxidation to pyroglutamic acid
+C1GK99,Propionaldehyde +40
+A0A0A0HUJ5,Sulfation;Acetylation (K)
+C1G1F2,Hexose (NSY);Carbamidomethylation;Phosphorylation (STY)
+C1GLM2,Palmitoylation;Carbamidomethylation
+C1G9C0,Carboxymethyl
+C1GHV2,Nucleophilic addition to cytopiloyne+H2O;Carbamidomethylation
+C1GBD6,Deamidation (NQ)
+C1GBE8,Methylation(KR);Dehydration
+A0A0A0HT80,Biotinylation
+C1GA13,Oxidation (M)
+C1GC65,Methylation(others)
+C1GA17,Acetylation (K)
+C1GA13,Methylation(KR)
+C1GIP8,Acetylation (N-term);Acetylation (K)
+C1GAG3,Oxidation (M);Phosphorylation (STY)
+A0A0A0HYV6,Pyro-glu from Q
+C1GFA3,Deoxy
+C1G0D4,Ammonia-loss (N);Carbamidomethylation
+C1GB47,Acetylation (K)
+C1GLJ8,Carbamidomethylation
+C1GAG3,Methylation(KR);Dehydration
+C1G9P8,Propionaldehyde +40
+A0A0A0HRG7,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GFA3,Oxidation (M)
+C1GGR5,Oxidation (M)
+C1G3T9,O-Ethylphosphorylation
+C1GBM4,Oxidation (M)
+C1GE03,Deamidation (NQ);Oxidation (M)
+C1G766,Carbamidomethylation
+C1GCI0,Phosphorylation (STY);Amidation;Biotinylation
+C1G391,Sodium adduct;Methylation(KR)
+C1GGR5,Methylation(KR)
+C1G1M5,Oxidation (M)
+A0A0A0HVN3,Pyro-glu from Q
+C1G6T3,Oxidation (HW)
+C1G2V1,Amidation
+C1GHS5,Proline oxidation to pyroglutamic acid
+C1GFG5,Amidation
+A0A0A0HR72,Oxidation (M)
+C1GD94,Formylation
+C1G8T5,Oxidation (M)
+C1GBT0,Acetylation (K)
+C1G0E3,Carboxylation (DKW);Carbamidomethylation
+C1GN52,Pyro-glu from E;Methylation(KR)
+C1GDT4,Oxidation (M)
+C1G0X4,Methylation(C-term)
+C1FYR6,Methylation(KR)
+C1G9D6,Deamidation (NQ)
+C1GA20,2-amino-3-oxo-butanoic_acid
+C1G6F6,Carbamidomethylation
+C1G6M8,Oxidation (M)
+C1G283,Carboxylation (DKW)
+C1GBZ4,Carbamylation;Carbamidomethylation
+A0A0A0HR79,Oxidation (M)
+C1G0E5,Dihydroxy
+Protein List,Protein Accession Contains:
+C1G8D0,Oxidation (M)
+C1G0D4,Replacement of proton with ammonium ion
+A0A0A0HT22,Sodium adduct;Acetylation (K)
+C1GAT8,Acetylation (N-term)
+C1GII4,Dehydration;Oxidation (M)
+C1GHN0,Oxidation (M)
+C1G9X0,Carbamidomethylation
+A0A0A0HV62,Acetaldehyde +26
+C1G810,Oxidation (HW)
+C1GHN0,Methylation(KR)
+C1GEX7,2-amino-3-oxo-butanoic_acid
+C1FYW9,Carbamidomethylation
+C1G820,Sulphone
+C1FYJ7,Formylation
+C1GLI9,Ammonia-loss (N)
+C1G2S7,Pyro-glu from Q;Carbamidomethylation
+C1G8H6,Formylation;Acetylation (K)
+C1GE52,Carbamidomethylation
+C1G9D7,O-Ethylphosphorylation
+C1GA20,Sodium adduct;Methylation(KR)
+C1G3T6,Phosphorylation (HCDR)
+C1G065,Phospho-propargylamine;Carbamidomethylation
+C1GE91,Oxidation (M)
+C1G064,Amidation;Acetylation (K)
+C1GKC9,2-amino-3-oxo-butanoic_acid
+C1GAF5,Proline oxidation to pyroglutamic acid
+A0A0A0HV09,Methylation(others)
+C1G1C8,Methylation(others)
+A0A0A0HUJ5,Sodium adduct;Acetylation (K)
+A0A0A0HS69,Amidation
+C1G0X4,Diethylation
+C1G2V1,Phosphorylation (STY);Acetylation (K);Methylation(KR)
+C1GEX7,Sodium adduct
+C1GLA5,Acetylation (K)
+C1G766,Deamidation (NQ)
+C1GDA8,Carbamidomethylation
+C1GLA5,Deamidation (NQ);Dehydration
+C1GII4,Acetylation (K)
+C1GMI6,Oxidation (M);Dehydration
+C1G064,Lysine oxidation to aminoadipic semialdehyde
+C1GAT8,Amidation
+C1G3L4,Dehydration;Methylation(KR)
+C1GDK2,Carboxylation (DKW)
+C1GAM9,Ethanolation (KR)
+C1GEM8,Oxidation (M)
+C1GK66,Lysine oxidation to aminoadipic semialdehyde
+C1G0D4,Proline oxidation to pyroglutamic acid
+C1GMI6,Methylation(KR)
+C1GB65,Oxidation (M)
+C1GKC9,Sodium adduct;Acetylation (K)
+A0A0A0HVP8,Dihydroxy
+C1GEM8,Methylation(KR)
+C1GII4,Deamidation followed by a methylation
+C1G821,Acetylation (N-term);Deamidation (NQ);Methylation(KR)
+C1G0F1,Carbamidomethylation
+C1G9D5,Lysine oxidation to aminoadipic semialdehyde
+C1GLU6,Formylation
+C1GLX7,Methylation(KR);Dehydration
+C1GCF0,Carboxylation (E);Carbamidomethylation;Methylation(KR)
+C1GAT8,Dethiomethyl
+C1GGT8,Iodination
+C1GCX1,Carbamidomethylation
+A0A0A0HWK8,Formylation (Protein N-term)
+C1FYM2,Oxidation (M)
+C1FYW9,Deamidation (NQ);Dehydration
+C1GAM9,Formylation
+C1GE52,Acetylation (K)
+C1G3C4,O-Ethylphosphorylation
+C1GLB8,Oxidation (M)
+C1GAM9,Nucleophilic addtion to cytopiloyne
+C1G5J0,Pyro-glu from Q
+C1GFA3,Acetylation (Protein N-term);Methylation(KR);Dimethylation(KR)
+"C1GDA8,""Propionamide (K, X@N-term)"""
+C1GAM9,Deamidation (R)
+C1G0G4,Sodium adduct;Carbamidomethylation
+C1GMU5,Carbamylation
+C1GIX7,Ethylation
+C1GEX7,Acetylation (N-term);Phosphorylation (STY);Biotinylation
+A0A0A0HV62,S-Ethylcystine from Serine;Carbamidomethylation
+C1G172,Deamidation (NQ);Carbamidomethylation;Phosphorylation (STY)
+A0A0A0HWY2,Sulfation
+C1G5V6,Carbamylation;Methylation(KR)
+C1G887,Deamidation (NQ)
+C1FYX6,Acetylation (Protein N-term);Deamidation (NQ)
+C1G821,Deamidation (R)
+C1GG76,Methylation(others)
+C1GAG4,Amidation
+C1GLI9,Proline oxidation to pyroglutamic acid
+C1G821,Amidation
+C1GE52,Acetylation (Protein N-term)
+C1GDA8,Deamidation (NQ);Methylation(KR)
+C1G283,Diglutamyl
+C1GAM9,Lysine oxidation to aminoadipic semialdehyde
+C1G391,Dihydroxy
+A0A0A0HUJ5,Beta-methylthiolation (ND)
+C1FYV1,Oxidation (M)
+C1G5Z8,Oxidation (M)
+C1GIP8,Dehydration
+C1GMZ1,Ammonia-loss (N)
+C1GLU6,Methylation(others);Carbamidomethylation
+A0A0A0HUJ5,Pyro-glu from Q;Oxidation (M)
+C1GEX7,Amidation;Methylation(KR)
+A0A0A0HRG7,Methylation(KR)
+C1GA13,Amidation
+C1G2S7,Oxidation (M)
+C1G9X3,Dihydroxy
+C1G0X0,Oxidation (M)
+C1G371,2-amino-3-oxo-butanoic_acid
+C1G1C6,Carbamidomethylation
+C1G821,Lysine oxidation to aminoadipic semialdehyde
+C1G3Y8,Oxidation or Hydroxylation
+C1G002,Methylation(others)
+C1GGT8,Oxidized Arginine biotinylated with biotin hydrazide
+C1GAG3,Amidation
+C1G712,Carbamylation
+A0A0A0HUJ5,Alpha-amino adipic acid
+C1GDU6,Oxidation (M)
+C1G3T9,2-amino-3-oxo-butanoic_acid
+C1GAW5,Carbamylation
+C1G3Y8,Formylation
+C1GBM4,Deamidation (R)
+Protein List,Protein Description Contains:
+C1GCK9,2-amino-3-oxo-butanoic_acid
+C1GB79,O-Isopropylmethylphosphonylation
+C1GA32,Pyro-glu from Q
+C1G6U5,Methylphosphonylation
+C1G371,Sodium adduct
+C1FYR6,Amidation
+C1G283,Formylation (Protein N-term)
+C1GE52,Replacement of proton by potassium
+C1GCT8,Ammonia-loss (N)
+C1GM00,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G0P4,Oxidation (M)
+C1G3C4,MDA adduct +54
+C1G1T5,Hypusine
+C1G3T9,Sodium adduct
+C1G0E5,O-Pinacolylmethylphosphonylation
+C1GM00,Michael addition with methylamine
+C1FYJ6,Deamidation (R)
+C1G6U5,Methylation(others)
+C1GCI0,2-amino-3-oxo-butanoic_acid
+C1G0E5,Deamidation followed by a methylation
+C1G283,Diethylation
+C1G248,Pyro-glu from Q
+C1G2H4,Ethylation
+C1G9P8,2-amino-3-oxo-butanoic_acid
+C1GBT0,Maleimide
+C1GK99,Sodium adduct
+C1G2J3,Dihydroxy
+A0A0A0HS69,Oxidation (HW)
+C1G3L4,Dihydroxy
+C1G283,Sulfation
+C1G820,Dihydroxy
+C1GAG3,Acetylation (Protein N-term);Phosphorylation (STY);Oxidation (M)
+C1G9D7,2-amino-3-oxo-butanoic_acid
+C1GLX6,Oxidation (M)
+C1G4M5,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G391,Pyro-glu from Q
+C1G3Y8,Diethylation;Carbamidomethylation
+C1GKR7,Ammonia-loss (N)
+C1GED5,Carbamidomethylation
+C1G065,Acetylation (Protein N-term);Oxidation (M)
+C1GII4,Acetylation (N-term);Acetylation (K)
+C1GB13,Pyro-glu from Q
+C1G9X3,Pyro-glu from Q
+C1GAF5,Dihydroxy
+A0A0A0HWK8,Acetylation (N-term);Phosphorylation (STY)
+C1G9P8,Sodium adduct
+C1GA97,Acetylation (K)
+C1G065,Sulphone;Oxidation (M)
+C1GLV8,Carboxylation (E)
+C1GFL2,Oxidation (M)
+C1GAF5,Carbamylation;Acetylation (K)
+C1GHJ0,Methylation(others)
+A0A0A0HQY7,Oxidation (M)
+C1G0D4,Sodium adduct;Acetylation (K)
+C1GFL2,Methylation(KR)
+C1GMI6,Amidation
+C1GM03,Formylation;Phosphorylation (STY)
+C1G9C0,Dihydroxy
+C1GEM8,Amidation
+C1G0D4,Dihydroxy
+C1GB65,Deamidation (R)
+C1G3T9,Phosphorylation (STY);Acetylation (K);Dihydroxy
+C1G1P0,Acetylation (N-term)
+C1GEU2,Carbamidomethylation
+C1FYW9,Pyridoxal phosphate
+C1GA20,Biotinylation;Acetylation (K)
+A0A0A0HS69,Carboxylation (E)
+C1GLI9,Ethylation
+C1GB65,Amidation
+C1FYK9,Dehydration
+C1GFA3,Sodium adduct;Methylation(KR)
+A0A0A0HT80,Phosphorylation (HCDR)
+C1G6T3,Ethylation
+A0A0A0HWQ9,Oxidation (M)
+C1GCK9,Phosphorylation (STY)
+C1G632,Deamidation (NQ)
+C1GDQ2,Carbamidomethylation
+C1GB13,Dehydration;Oxidation (M)
+C1G989,Acetylation (K)
+C1G5F6,Replacement of proton by lithium
+C1G2V1,Dehydration;Acetylation (K)
+C1FZ00,Tryptophan oxidation to kynurenin
+C1GJB5,Oxidation (M)
+C1G989,Deamidation (NQ);Carbamidomethylation;Dehydration
+C1GAQ4,Pyro-glu from Q
+C1GLI2,Dethiomethyl
+A0A0A0HWQ0,Carbamidomethylation;Oxidation (M)
+C1GJB5,Methylation(KR)
+C1GEX6,Oxidation (M);Carbamidomethylation
+C1G1F2,Deamidation followed by a methylation
+A0A0A0HV62,Ammonia-loss (N)
+C1G3L4,Pyro-glu from Q
+A0A0A0HS69,Iodination
+C1G0X4,Deamidation (R)
+C1G820,Pyro-glu from Q
+C1G810,Ethylation
+C1G0X4,Amidation
+C1G7C1,Pyro-glu from Q
+C1GB47,MDA adduct +54
+C1G0X9,Proline oxidation to pyroglutamic acid
+C1GA13,Oxidation (HW)
+C1G371,Carboxylation (DKW)
+A0A0A0HV38,Oxidation (M)
+C1G4M5,Maleimide-3-saccharide;Carbamidomethylation
+C1GN52,Michael addition with methylamine
+A0A0A0HT80,Carbamylation
+C1GLA5,Diphthamide
+C1G2J3,Carbamidomethylation
+C1GAF5,Pyro-glu from Q
+C1G0U1,Carbamidomethylation;Methylation(KR)
+A0A0A0HT80,Carboxylation (DKW);Methylation(KR)
+C1GAM9,Ammonia-loss (N)
+A0A0A0HYY2,Oxidation (M)
+C1G1C8,Replacement of proton by lithium
+A0A0A0HRG7,Deamidation (R)
+C1GMV8,2-amino-3-oxo-butanoic_acid
+C1GAM9,Carboxylation (E)
+C1G0X4,Lysine oxidation to aminoadipic semialdehyde
+C1GIX7,Acetylation (N-term);Dehydration
+C1GED5,Acetylation (Protein N-term);Oxidation (M)
+C1GLI2,2-amino-3-oxo-butanoic_acid
+C1GCK9,Carboxylation (DKW)
+C1GAE3,Carbamidomethylation
+A0A0A0HYY2,Methylation(KR)
+C1G391,Deamidation followed by a methylation
+C1GFA3,Phosphorylation (STY)
+C1GB49,Carbamidomethylation
+C1G0E3,Methylation(others)
+C1GA20,Formylation (Protein N-term)
+"C1GHS5,""Propionamide (K, X@N-term)"""
+C1G3M0,Oxidation (M)
+C1G0C5,Dehydration;Carbamidomethylation;Phosphorylation (STY)
+A0A0A0HU84,Oxidation (M)
+C1G391,Acetylation (Protein N-term)
+C1G712,Dimethylation(KR)
+A0A0A0HU84,Methylation(KR);Dehydration
+C1G0U1,Lipoyl
+C1GAG4,Carboxylation (DKW)
+C1GDJ1,Amidation
+C1GAA6,Carbamidomethylation
+C1FZI7,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1GMV8,Sodium adduct
+C1G8H6,Proline oxidation to pyroglutamic acid
+C1G9X3,Acetylation (Protein N-term)
+C1GHS5,Acetylation (K)
+C1GN83,Phosphorylation (STY);Carbamidomethylation;Methylation(KR)
+C1GHS5,Deamidation (NQ);Methylation(KR)
+A0A0A0HWS3,Lipoyl
+C1GML7,Oxidation (M)
+C1G560,Oxidation (M)
+C1G2H4,Carbamidomethylation
+C1FYY9,Carbamidomethylation
+C1FYW7,Carbamylation
+C1G064,Trifluoroleucine
+C1G942,Methylation(others);Carbamidomethylation
+C1G411,Acetylation (K)
+C1GML7,Methylation(KR)
+C1G1T5,Malonylation
+C1GDQ2,Acetylation (Protein N-term)
+C1G373,Acetylation (N-term);Dimethylation(KR);Oxidation (M)
+C1GCX5,Carbamidomethylation
+C1FZL1,Carbamidomethylation
+A0A0A0HT22,Hexose (NSY)
+C1GB47,Monoglutamyl;Carbamidomethylation
+C1G2J3,Acetylation (K)
+C1GJS2,Methylation(others)
+C1GIX7,Methylation(others)
+C1G606,Pyro-glu from Q;Carbamidomethylation;Methylation(KR)
+C1G942,Formylation;Phosphorylation (STY)
+C1GHJ0,Carboxymethyl
+C1G194,Deamidation (NQ);Carbamidomethylation
+C1GBS0,Carbamidomethylation
+C1GAE3,Deamidation (NQ)
+C1G283,Ethanolation (KR)
+C1GKC9,Sulfation
+C1G6U8,Oxidation (M)
+C1GAF5,Acetylation (K)
+C1G653,Methylation(KR)
+C1GC65,Dihydroxy
+C1G6U8,Methylation(KR)
+C1GBZ4,Oxidation (M)
+C1G3V2,Oxidation (M)
+C1G9U1,Methylation(KR)
+C1GAM9,Proline oxidation to pyroglutamic acid
+C1G9M3,Oxidation (M)
+C1GLU1,Oxidation (M)
+C1GBZ4,Methylation(KR)
+C1GHS5,Biotinylation
+C1GEN5,Pyro-glu from Q
+C1G1L3,Oxidation (M)
+C1G283,Formylation
+C1GE98,Deamidation (NQ)
+C1GA13,Formylation;Deamidation (NQ)
+C1G159,Oxidation (M)
+A0A0A0HX63,Oxidation (M)
+C1GLX8,Oxidation (M)
+C1GA13,Biotinylation;Carbamidomethylation;Methylation(KR)
+C1G8H6,2-OH-ethyl thio-Ser
+C1GBT4,Oxidation (M)
+C1GAG4,Trifluoroleucine
+C1G631,Carbamidomethylation
+C1GAA6,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1G0X4,Oxidation (HW)
+C1GLI9,Guanidination
+C1GBJ2,Oxidation (M);Sodium adduct
+C1G821,Carbamylation;Methylation(KR)
+A0A0A0HUJ5,O-Ethylphosphorylation
+C1GA13,N-Succinimidyl-2-morpholine acetate
+A0A0A0HUV5,Oxidation (M)
+C1GMI6,Carboxylation (DKW)
+C1GM03,Ammonia-loss (N)
+C1G371,Pyro-glu from E
+C1GHF6,Acetylation (Protein N-term);Deamidation (NQ)
+C1G631,Dehydration;Oxidation (M)
+C1G0C5,Carbamidomethylation
+C1GEM8,Carboxylation (DKW);Phosphorylation (STY)
+A0A0A0HU84,Acetylation (N-term)
+C1GCT8,Dihydroxy
+C1GHZ3,Pyro-glu from Q
+A0A0A0HV62,2-OH-ethyl thio-Ser
+C1G0E3,Carbamylation;Deamidation (NQ);Carbamidomethylation
+A0A0A0HS69,Ethylation
+C1G3T9,Pyro-glu from E
+C1GCT8,Carbamylation;Acetylation (K)
+C1G255,Pyro-glu from Q
+C1G9P8,Oxidation (HW);Methylation(KR)
+C1FYE5,Oxidation (M)
+C1G945,Carbamidomethylation
+A0A0A0HVP8,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1G9D5,Ethylation
+A0A0A0HV62,Menadione quinone derivative
+C1GHZ3,Carbamidomethylation
+A0A0A0HT22,Acetaldehyde +26
+C1GHJ0,Sulphone
+C1GLJ7,Acetylation (N-term);Oxidation (M)
+C1G371,Sulfation;Acetylation (K)
+C1G1T5,O-Ethylphosphorylation
+C1GJI0,Pyro-glu from Q
+C1GHJ0,Replacement of proton by lithium
+C1GC65,Carbamidomethylation
+C1G9F5,Oxidation (M)
+C1GE52,Carbamylation
+C1GEM8,Carboxylation (E);Phosphorylation (STY)
+C1GK99,Diethylation
+C1FZI7,2-amino-3-oxo-butanoic_acid
+C1GBJ2,Methylation(KR)
+C1GHV2,Dimethylation(KR);Acetylation (K)
+C1G5V6,Oxidation (M)
+C1FZT8,Biotinylation;Phosphorylation (STY)
+C1G6T3,Methylation(others)
+C1FYE5,Deamidation (NQ);Carbamidomethylation
+C1G283,Crotonylation
+C1GK99,Sulfation
+C1GMZ1,Carbamidomethylation
+C1G5V6,Methylation(KR)
+C1GMI6,Dehydration;Acetylation (K)
+C1G8H6,Dihydroxy
+C1GDK2,Methylation(others)
+C1GML7,Amidation
+C1GHJ0,Dehydration
+C1GAG3,Formylation (Protein N-term)
+A0A0A0HU09,Oxidation (M)
+C1G675,Carbamidomethylation
+C1GL57,Carbamidomethylation
+A0A0A0HT80,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GLU1,Acetylation (N-term)
+C1GAW6,Methylation(KR)
+C1GEN5,Benzyl isothiocyanate
+A0A0A0HT22,Formylation
+C1GM00,Dethiomethyl
+C1GF47,Oxidation (M)
+A0A0A0HWS3,Oxidation or Hydroxylation
+C1G9P8,Sulfation
+C1G821,Ethylation
+C1GDJ1,Carboxylation (DKW)
+C1GA71,Oxidation (M)
+C1G736,Carbamidomethylation
+C1GF71,Methylation(others)
+C1G1C8,Pyridylacetyl
+C1GA17,Dimethylation(KR)
+C1GAW5,Oxidation (M)
+C1G388,Methylation(KR)
+C1FZ00,2-amino-3-oxo-butanoic_acid
+C1G5P1,Methylation(others)
+C1G821,4-sulfophenyl isothiocyanate
+C1FZ57,Ethanolation (C)
+"C1FYH3,""Propionamide (K, X@N-term)"""
+C1G4N0,Carbamidomethylation
+C1G172,Methylphosphonylation;Carbamidomethylation
+C1GGT8,Biotinylation
+C1GG76,Dihydroxy
+C1GCV9,Carbamidomethylation
+C1GB47,Dimethylation(KR);Acetylation (K)
+"C1GMZ1,""Propionamide (K, X@N-term)"""
+C1G696,Pyro-glu from Q
+C1G391,Iminobiotinylation
+C1GLU6,Dihydroxy
+C1GA20,Deamidation (R)
+C1GFR3,Carbamidomethylation
+C1G002,Sodium adduct;Acetylation (K)
+"C1GDJ1,""Carboxymethyl (KW, X@N-term)"""
+C1GAM1,Methylation(KR)
+C1G4M5,3-sulfanylpropanoyl
+C1GBZ4,Amidation
+C1G647,Acetylation (N-term)
+C1G9X3,Carbamylation;Deamidation (NQ)
+C1GBT0,Dimethylation(KR)
+C1GCT8,Acetylation (K);Methylation(KR);Phosphorylation (STY)
+C1GD94,Carbamidomethylation
+C1G349,Oxidation (M)
+C1GHD6,Methylation(KR);Oxidation (M)
+C1G411,Lysine oxidation to aminoadipic semialdehyde;Carbamidomethylation
+C1G989,Hydroxyheme
+C1G065,2-amino-3-oxo-butanoic_acid
+A0A0A0HT22,Methylation(others)
+C1GBD3,Carbamidomethylation
+C1G0N2,Carbamylation;Acetylation (K)
+C1GC65,Acetylation (Protein N-term)
+C1G065,Condensation product of glucosone
+C1G1L3,Amidation
+C1G2Z9,Carbamidomethylation
+C1GE52,Pyro-glu from Q;Methylation(KR)
+C1G391,Dehydration;Deamidation (NQ)
+C1GHJ0,Deamidation followed by a methylation;Carbamidomethylation
+C1GLX8,Amidation
+C1GIP8,Oxidation (M)
+C1G675,Deamidation (NQ)
+C1G4M5,Arginine oxidation to glutamic semialdehyde
+C1GIP8,Methylation(KR)
+C1G9M3,Dethiomethyl
+A0A0A0HS42,2-amino-3-oxo-butanoic_acid
+C1GBT4,Amidation
+C1FYJ7,Carbamidomethylation
+C1G5F6,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GK99,Acetylation (N-term);Phosphorylation (STY)
+C1GEG2,Oxidation (M)
+C1GJS2,Proline oxidation to pyroglutamic acid
+A0A0A0HQN9,Acetylation (Protein N-term);Oxidation (M)
+C1G4N0,Acetylation (K)
+C1GDA8,Pyro-glu from Q;Methylation(KR)
+C1GMV8,Formylation (Protein N-term)
+C1GIX7,Replacement of proton by lithium
+A0A0A0HWY2,Proline oxidation to pyroglutamic acid
+A0A0A0HRG7,Carbamylation;Methylation(KR)
+C1GEJ5,Carbamidomethylation
+C1GBG4,Carbamidomethylation
+A0A0A0HT80,Ubiquitin
+C1GMZ1,Biotinylation
+C1GII4,Dimethylation(KR)
+C1GN52,Dethiomethyl
+C1GDJ1,Trifluoroleucine
+C1FZT8,Methylation(others);Carbamidomethylation
+C1G4N0,Acetylation (Protein N-term)
+C1FYJ7,Guanidination
+C1GMV8,Sulfation
+C1GA13,Acetylation (K);Carbamidomethylation;HexNAcylation (N)
+C1GFB1,Carbamidomethylation
+C1GCV9,Acetylation (Protein N-term)
+C1GDL1,Carbamidomethylation
+C1G4T5,Oxidation (M)
+C1G2Z9,Acetylation (K)
+C1G4K1,Carbamidomethylation
+C1G8F9,Carbamidomethylation
+C1G6J5,Oxidation (M)
+C1G2V1,Methylation(others);Carbamidomethylation
+C1G1F2,2-amino-3-oxo-butanoic_acid
+C1GD88,Carbamidomethylation
+C1GFG5,Methylation(others)
+C1G1T5,2-amino-3-oxo-butanoic_acid
+C1GB65,Ethylation
+"C1GHS5,""2,3-dihydro-2,2-dimethyl-7-benzofuranol N-methyl carbamate"""
+C1GHJ0,Dihydroxy
+C1G957,Oxidation (M)
+C1G3C4,Methylation(KR)
+C1GLV8,Deamidation (NQ)
+C1FYW9,Dimethylation(KR)
+C1GBJ2,Amidation
+C1GN84,Hexose (NSY)
+C1GJD9,Carbamylation
+C1GKE7,Methylation(KR)
+A0A0A0HV62,Propargylamine
+C1GAT8,Formylation
+C1GE52,Dimethylation(KR)
+C1GMU5,Amidation
+C1FYJ7,Acetylation (K)
+C1GCT8,Dehydroalanine (Y)
+C1G248,2-amino-3-oxo-butanoic_acid
+C1GE52,Methylation(KR);Carbamidomethylation;Dehydration
+C1G2V1,Formylation;Phosphorylation (STY)
+A0A0A0HT80,Oxidation (M)
+C1G8H6,Acetylation (K)
+C1G750,Carbamidomethylation
+C1GB47,Pyro-glu from E
+C1GLX8,Dihydroxy;Phosphorylation (STY)
+C1GGI0,Methylation(KR)
+A0A0A0HT80,Methylation(KR);Dehydration
+C1G5E8,Carbamidomethylation
+C1GFT4,Methylation(others)
+C1GLA5,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G371,Formylation
+C1GB60,Deamidation (NQ)
+C1G065,Amidation;Methylation(KR)
+C1G6U5,HexNAcylation (N)
+C1FZT8,Dehydration;Methylation(KR);Oxidation (M)
+C1G2R2,Oxidation (M)
+C1GMY5,Oxidation (M)
+C1G3T6,2-amino-3-oxo-butanoic_acid
+C1GN78,Tryptophan oxidation to oxolactone
+C1G3T9,Formylation
+C1G064,Methylation(others)
+C1GN52,Sodium adduct
+C1G5V6,Dethiomethyl
+C1G3Y8,Tyrosine oxidation to 2-aminotyrosine
+C1FYK9,Oxidation (M)
+C1GHV2,Methylation(KR)
+C1G283,Proline oxidation to pyroglutamic acid
+C1G5Z2,Oxidation (M)
+C1G5F6,Ubiquitin
+C1GLM2,Oxidation (M)
+C1GA10,Oxidation (M)
+C1GM00,Carboxylation (DKW)
+C1GB47,Sulfation
+C1GJ98,Carbamidomethylation
+C1G5M9,2-amino-3-oxo-butanoic_acid
+C1G4K1,Deamidation (NQ)
+C1FYK9,Methylation(KR)
+C1G9P1,Oxidation (M)
+C1GM03,Dihydroxy
+C1FYK2,Acetylation (Protein N-term)
+C1FYW9,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GAY4,Carbamidomethylation
+C1GLM2,Methylation(KR)
+"C1FZT8,""Propionamide (K, X@N-term)"""
+C1GAT8,Methylation(others)
+C1GBN3,Acetylation (Protein N-term)
+C1G1F2,Dimethylation(KR);Methylation(KR)
+A0A0A0HUJ5,Thiophosphorylation
+Q1XA91,Carbamidomethylation
+C1G712,Lysine oxidation to aminoadipic semialdehyde
+C1GHS5,Carbamylation
+A0A0A0HV62,Deamidation followed by a methylation
+C1G9D7,Oxidation or Hydroxylation
+C1G1D9,Methylation(others)
+C1GAM9,Acetylation (K)
+C1G002,Acetylation (K)
+C1G9P8,Formylation
+C1GHD6,Oxidation (M)
+A0A0A0HVY3,Oxidation (M)
+C1G0E3,Dihydroxy
+A0A0A0HS69,Biotinylation
+C1G411,Carbamylation
+C1G172,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1G5F6,Deoxy
+C1GK99,Lysine oxidation to aminoadipic semialdehyde
+C1G1C8,Ubiquitin
+C1GHM0,Hexose (NSY)
+C1GHJ0,Alpha-amino adipic acid
+C1GFR7,Carbamidomethylation
+C1G065,Dimethylation(KR)
+C1G3L4,2-amino-3-oxo-butanoic_acid
+C1GA20,Carboxylation (E)
+C1GE03,Oxidation (M)
+C1GCK9,Methylation(others)
+C1GDT2,Oxidation (M);Carbamidomethylation
+C1G810,Glycidamide adduct
+C1G0N2,Acetylation (Protein N-term)
+C1G1R0,Deamidation (NQ);Methylation(KR)
+C1GBS5,Oxidation (M)
+C1GBG1,Carbamidomethylation
+C1G8S5,Methylation(KR)
+C1G821,Methylation(others)
+C1G9D7,Lysine oxidation to aminoadipic semialdehyde
+"C1G3Y8,""Propionamide (K, X@N-term)"""
+C1GCI0,Methylation(others)
+C1GCT8,Dehydration;Methylation(KR)
+C1G9X9,Dehydration;Methylation(KR)
+C1GBP4,Carbamidomethylation
+C1G2V1,Carboxymethyl
+A0A0A0HUJ5,Dimethylation(KR)
+C1GLX8,Carboxylation (DKW)
+C1GFA3,Methylphosphonylation
+A0A0A0HQT1,Oxidation (M)
+C1GAG3,Methylation(others)
+A0A0A0HUJ5,CHDH
+C1GM00,Trifluoroleucine
+C1GLV8,3-methyl-2-pyridyl isocyanate
+C1FZG1,Carbamidomethylation
+C1FZ57,Lysine oxidation to aminoadipic semialdehyde
+C1FYJ9,2-amino-3-oxo-butanoic_acid
+C1G063,Carbamidomethylation
+C1GFA3,Methylation(others)
+C1G3Y8,Deamidation followed by a methylation
+C1GK89,Carbamidomethylation
+C1G0E3,Pyro-glu from Q
+C1G810,Dehydration
+C1G136,Carbamidomethylation
+C1GGR5,2-amino-3-oxo-butanoic_acid;Carbamidomethylation
+C1FYX6,Sulfation
+C1G3C4,Deamidation (R)
+C1GAG3,Formylation;Phosphorylation (STY)
+C1GLJ8,Methylation(KR)
+C1G766,Oxidation (M)
+C1G5P1,Sodium adduct;Methylation(KR)
+C1G9X9,Phosphorylation (STY);Sulfation
+C1FYR6,Methylation(others)
+C1GLA5,Oxidation (M)
+C1G7G9,Carbamidomethylation
+C1G0G4,Oxidation (M)
+C1G3T6,Carboxylation (DKW)
+C1GLA5,Methylation(KR)
+C1FZH6,Oxidation (M)
+C1GEN5,Dethiomethyl
+C1G035,Oxidation (M)
+C1GII4,Methylation(KR)
+A0A0A0HRQ4,Carbamidomethylation
+C1G6F6,Oxidation (M)
+C1GMV8,Formylation
+C1G371,Formation of five membered aromatic heterocycle
+C1G0G4,Methylation(KR)
+C1G3D9,Deamidation (NQ)
+C1GEM8,Formylation
+C1GBM4,Phenethyl isothiocyanate
+C1GA20,Proline oxidation to pyroglutamic acid
+A0A0A0HT80,Amidation
+C1G942,Pyro-glu from Q
+C1GE59,Carbamidomethylation
+C1GBM4,Biotinylation
+C1G6F6,Methylation(KR)
+C1GDK7,Pyro-glu from Q
+C1GLI9,Carbamylation
+C1G9X0,Oxidation (M)
+C1GEN5,Sulfation;Deamidation (NQ)
+C1G5F6,Phosphorylation (STY);Sodium adduct
+C1GEJ0,Oxidation (M)
+C1G3Y8,Biotinylation
+C1FYW9,Oxidation (M)
+C1GLD8,Carbamidomethylation
+C1GJS2,Pyro-glu from Q
+C1G391,Dimethylation(KR)
+C1G9U8,Carbamidomethylation
+C1GEX7,Proline oxidation to pyroglutamic acid
+C1GB89,Deamidation (NQ);Methylation(KR)
+C1GHZ8,Dehydration
+C1G4W6,Carbamidomethylation
+C1GDK4,Carbamidomethylation
+C1GMU5,Carboxylation (DKW)
+C1G9X3,Dimethylation(KR)
+C1GEN5,2-amino-3-oxo-butanoic_acid
+C1GDR7,Oxidation (M)
+C1GM03,Acetylation (K)
+C1GBP4,Acetylation (Protein N-term)
+C1GM03,Deamidation (NQ)
+C1GKG3,2-amino-3-oxo-butanoic_acid
+C1G172,Oxidation (M)
+C1GAF5,Thiophosphorylation
+C1G371,Ammonia-loss (N)
+C1GMI6,Methylation(others)
+C1G172,Methylation(KR)
+C1G371,Carboxylation (E)
+A0A0A0HWY2,Carbamidomethylation
+C1GEM8,Methylation(others)
+C1G5T0,Carboxymethyl;Carbamidomethylation
+C1G9T0,Carbamidomethylation
+C1G712,Carboxylation (E)
+C1GB65,Methylation(others)
+C1GDA8,Methylation(KR)
+C1GM03,5-dimethylaminonaphthalene-1-sulfonyl
+C1GA14,Pyro-glu from Q
+A0A0A0HT80,Ammonia-loss (C@N-term)
+C1GEN5,Sodium adduct
+C1GM03,Acetylation (Protein N-term)
+C1G9D7,Oxidation (HW)
+C1G3F2,Carbamidomethylation
+C1GM54,Carbamidomethylation
+C1GN84,Biotinylation;Methylation(KR)
+C1GK99,Ammonia-loss (N)
+C1GK06,Carbamidomethylation
+C1G9D7,Bis(hydroxphenylglyoxal) arginine
+C1GA17,Amidation
+C1GHJ0,Acetylation (Protein N-term);Biotinylation
+A0A0A0HVP8,O-Diethylphosphorylation
+C1G6T3,Dihydroxy
+C1GLJ0,Oxidation (M)
+C1GB47,Deamidation (R)
+C1GB47,Amidation
+C1GFX9,Oxidation (M)
+C1G8H6,Carbamylation;Deamidation (NQ)
+C1G255,2-amino-3-oxo-butanoic_acid
+C1GDK2,Dihydroxy
+A0A0A0HVH2,Oxidation (M)
+C1GLI9,Acetylation (K);Deamidation (NQ)
+C1GAG3,Carboxymethyl
+C1G0X9,Dehydration
+C1G5V6,Dehydration;Acetylation (K)
+C1GBT0,Deamidation (R)
+C1GM00,Methionine replacement by azido homoalanine
+A0A0A0HWS3,Biotinylation;Phosphorylation (STY)
+C1GA81,Carbamidomethylation
+C1G283,Tyrosine oxidation to 2-aminotyrosine
+A0A0A0HVH2,Methylation(KR)
+C1G942,Deamidation followed by a methylation
+C1G9D7,Ammonia-loss (N)
+C1G065,Hexose (NSY)
+C1GI20,Carbamidomethylation
+C1GK68,Carbamidomethylation
+C1GEX7,Formylation;Carbamidomethylation
+C1GN78,Deamidation (NQ)
+C1GMV8,Phosphorylation (STY);Methylation(KR)
+C1GMZ1,Carbamylation
+A0A0A0HRG7,Methylation(others)
+C1GHS5,Amidination of lysines or N-terminal amines with methyl acetimidate
+A0A0A0HWY2,Deamidation (NQ);Dihydroxy
+C1G9R9,Carbamidomethylation
+C1FZD4,Pyro-glu from Q
+C1G0X4,Biotinylation
+C1GJ85,Pyro-glu from Q
+C1GMU5,Replacement of 2 protons by nickel
+C1FYJ7,Acetylation (Protein N-term);Acetylation (K)
+C1GLV8,Dehydration
+C1G9C0,Dimethylation(KR)
+C1GJS2,Acetylation (Protein N-term)
+C1G0D4,Dimethylation(KR)
+C1G233,Dihydroxy
+C1GHR8,Carbamidomethylation
+C1GM00,Acetylation (TSCYH)
+C1G1C6,Oxidation (M)
+C1GC48,Oxidation (M)
+C1GN78,Acetylation (Protein N-term)
+C1G9P8,Fluorination
+C1G371,Proline oxidation to pyroglutamic acid
+C1GDJ1,Methylation(others)
+C1G8N6,Carbamidomethylation
+A0A0A0HUJ5,Hexose (NSY)
+C1G1F2,Sulfation
+C1G989,Ubiquitin
+C1G3Y8,Maleimide
+C1GFG5,Hexose (NSY);Methylation(KR)
+C1GEC6,Carbamidomethylation
+A0A0A0HT22,Dihydroxy
+C1G3T6,Formylation (Protein N-term)
+C1G989,Oxidation to nitro
+C1GLA5,Amidation
+C1GN52,Sulfation
+C1GK99,Proline oxidation to pyroglutamic acid
+C1G6B0,Acetylation (Protein N-term)
+C1GBZ4,Methionine replacement by azido homoalanine
+C1GMC5,Carbamidomethylation
+C1GII4,Amidation
+C1G411,Pyro-glu from Q;Carbamidomethylation
+C1G065,Dihydroxy;Methylation(KR)
+C1GDJ1,ISD (z+2)-series
+A0A0A0HQN9,Ubiquitin
+C1G5F6,Sodium adduct
+A0A0A0HVP8,Methylation(KR)
+C1GEN5,Carboxylation (DKW)
+C1G7K8,Carbamidomethylation
+C1G766,Lysine oxidation to aminoadipic semialdehyde
+C1FZ57,Iodination
+C1GLM2,Crotonaldehyde
+C1GJY9,Pyro-glu from Q
+C1GDA8,Acetylation (N-term)
+C1G1C8,2-amino-3-oxo-butanoic_acid
+C1FYX6,Formylation
+C1G389,2-amino-3-oxo-butanoic_acid
+C1GLJ7,Proline oxidation to pyroglutamic acid
+"C1GAM9,""2,5-dimethypyrrole"""
+C1G0G4,Lysine oxidation to aminoadipic semialdehyde
+C1G1J4,Carbamidomethylation
+C1G0D4,Amidination of lysines or N-terminal amines with methyl acetimidate
+C1GMV8,Carboxymethyl
+C1G989,Oxidation (M)
+C1GK52,Carbamidomethylation
+C1FYX3,Acetylation (Protein N-term)
+C1GLA6,Carbamidomethylation
+C1FYW9,Amidation
+C1G4C0,Deamidation (NQ)
+C1G283,Acetylation (K)
+C1GE52,Amidation
+C1G9D7,Proline oxidation to pyroglutamic acid
+"C1GEN5,""Carboxymethyl (KW, X@N-term)"""
+C1GLV8,Carbamylation
+C1GCX5,Michael addition with methylamine
+C1G283,Deamidation (NQ)
+C1GDP1,2-amino-3-oxo-butanoic_acid
+C1G7L4,Carbamidomethylation
+C1G712,Phospho-guanosine
+C1GED5,Methylation(KR)
+C1FYW9,Lysine oxidation to aminoadipic semialdehyde
+C1G820,Pyro-glu from E
+C1G0P0,Formylation
+C1GHS5,Ubiquitin
+C1GA17,Oxidation (HW)
+C1G391,Oxidation (M)
+A0A0A0HQN9,Methylation(KR)
+C1GBT0,3-(carbamidomethylthio)propanoyl
+C1G2V1,Dihydroxy
+C1G0D4,Methylation(C-term)
+C1GB13,Oxidation (M)
+C1GB47,Oxidation (HW)
+C1G0E5,O-Diisopropylphosphorylation
+C1FYR1,Carbamidomethylation
+C1GLM2,Carboxylation (E)
+A0A0A0HT22,Pyro-glu from Q
+C1GEU2,Oxidation (M)
+C1GDE1,2-amino-3-oxo-butanoic_acid
+C1G5G4,Carbamidomethylation
+C1GB13,Methylation(KR)
+C1G9X3,Methylation(KR)
+C1FZC6,Pyro-glu from Q
+C1G064,Arginine oxidation to glutamic semialdehyde
+C1G9P8,Levuglandinyl-lysine pyrrole adduct
+C1G673,Carbamidomethylation
+C1GEU2,Methylation(KR)
+A0A0A0HV38,Deamidation (NQ)
+C1GDJ1,Formation of five membered aromatic heterocycle
+C1GJB5,Methylation(others)
+C1GJ83,Carbamidomethylation
+C1G1J4,Deamidation (NQ)
+C1G821,Phosphorylation (HCDR)
+C1GMC5,Acetylation (Protein N-term)
+C1GEQ8,Carbamidomethylation
+C1GG76,2-amino-3-oxo-butanoic_acid
+A0A0A0HT22,Carbamidomethylation
+C1GLA6,Deamidation (NQ)
+C1G970,Oxidation (M)
+C1G712,Ethylation
+C1GLU6,2-amino-3-oxo-butanoic_acid
+C1G2Y7,Carbamidomethylation
+C1GHS5,Methylation(KR)
+C1G3N6,Carbamidomethylation
+C1G0E5,Deamidation (R)
+C1G411,Oxidation (M)
+A0A0A0HWS3,Carbamidomethylation
+C1GGZ4,Deamidation (NQ)
+C1G0E5,Amidation
+C1G942,Dimethylation(KR);Phosphorylation (STY)
+C1GA20,Carbamidomethylation
+C1G002,2-amino-3-oxo-butanoic_acid
+C1FZT8,Carbamylation
+C1G411,Methylation(KR);Phosphorylation (STY)
+C1GA17,Myristoylation
+C1G065,Deamidation (R)
+C1FYJ6,Dehydration
+C1G2J3,Oxidation (M)
+C1G9C0,Sulfation
+C1GAT8,Dihydroxy
+C1GBT0,Carboxylation (E)
+C1GMV8,Proline oxidation to pyroglutamic acid
+C1GAE3,Oxidation (M)
+A0A0A0HV62,Carboxyethyl
+C1GB49,Oxidation (M)
+A0A0A0HT80,N-Succinimidyl-2-morpholine acetate
+C1GAG3,Biotinylation;Phosphorylation (STY)
+C1G065,Lysine oxidation to aminoadipic semialdehyde
+C1GAF5,Oxidation (M)
+C1GLA5,Ubiquitination
+C1GB65,Replacement of proton by lithium
+"A0A0A0HT57,""Propionamide (K, X@N-term)"""
+C1GKC9,Carbamidomethylation
+C1GA14,Dehydration;Methylation(KR)
+C1G371,Dihydroxy
+C1GGI0,Carbamylation;Methylation(KR)
+C1GAF5,Methylation(KR);Phosphorylation (STY)
+C1GHS5,Phosphorylation to amine thiol;Carbamidomethylation
+C1GE31,Oxidation (M)
+C1G6I0,Amidation;Acetylation (K)
+C1GK98,Oxidation (M)
+A0A0A0HT22,Acetylation (K)
+C1GAA6,Oxidation (M)
+C1GAF5,Levuglandinyl-lysine anhydrolactam adduct
+C1GH26,Carbamidomethylation
+C1GIE5,Carbamidomethylation
+C1FYR1,Acetylation (Protein N-term)
+C1G9C0,Hexose (NSY)
+C1G3T9,Dihydroxy
+C1GK98,Methylation(KR)
+C1G373,Carbamidomethylation
+C1GBT0,Iodination
+C1G760,Carbamidomethylation
+C1GHE4,Biotinylation
+C1FZI7,Levuglandinyl-lysine pyrrole adduct;Carbamidomethylation
+C1G2H4,Oxidation (M)
+A0A0A0HWS3,Acetylation (K)

@@ -10,7 +10,7 @@ print("=== Proteomic Analisys - Find Peptides from Keywords ===")
 # html_file = input("Enter the name of the HTML file: ")
 # Setup 
 print("Reading HTML file...")
-html_file = "aEV_protein.html"
+html_file = "2024-10-30-vEV_PTM_protein.html"
 
 #origin folder  
 origin_folder = "./data/"
@@ -18,7 +18,7 @@ origin_folder = "./data/"
 #destiny folder
 destiny_folder = "./results/"
 
-keywordsToFind = ["Phosphorylation"]
+keywordsToFind = ["Phosphorylation", "Acetylation"]
 print("Keywords to find: ", keywordsToFind)
 
 ##################################

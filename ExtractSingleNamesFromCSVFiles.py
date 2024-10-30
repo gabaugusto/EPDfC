@@ -7,11 +7,11 @@ print("=== Proteomic Analisys - Extract unique files from Keywords ===")
 
 
 print("Reading CSV file...")
-html_file = "./results/aEV_protein.html_peptides.csv"
-output_file = "./results/aEV_unique_proteins.csv"
+base_file = "./results/2024-10-30-vEV_PTM_protein.html_peptides.csv"
+output_file = "./results/2024-10-30-vEV_PTM_protein_unique_proteins.csv"
 
 # Check if the file exists  
-if not os.path.exists(html_file):
+if not os.path.exists(base_file):
     print("Error: The file does not exist")
     exit(1)
 
@@ -21,7 +21,7 @@ if not os.path.exists(html_file):
 
 # Open the csv file
 proteins = []
-with open(html_file, "r") as file:
+with open(base_file, "r") as file:
 
     # Open the csv file separated by semi-colon
     reader = csv.reader(file, delimiter=";")
@@ -38,17 +38,17 @@ with open(html_file, "r") as file:
                 proteins.append(protein)
 
 # Save the unique proteins in a csv file
-with open("./results/aEV_unique_proteins.csv", "w") as file:
+with open(output_file, "w") as file:
     writer = csv.writer(file)
     for protein in proteins:
         writer.writerow([protein])
 
 #remove the empty lines from the csv file
-with open("./results/aEV_unique_proteins.csv", "r") as file:
+with open(output_file, "r") as file:
     lines = file.readlines()
     lines = [line for line in lines if line.strip()]    
-with open("./results/aEV_unique_proteins.csv", "w") as file:
+with open(output_file, "w") as file:
     file.writelines(lines)
 
-print("Unique proteins extracted and saved in 'results/unique_proteins.csv'")
+print("Unique proteins extracted and saved in " + output_file)
 print("Done!")
